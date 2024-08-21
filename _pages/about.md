@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wencan Mao (**wencan_mao@nii.ac.jp**) is currently working as a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her Ph.D. degree in the Department of Information and Communications Engineering, from Aalto University, Espoo, Finland. She received the B.E. degree in vehicle engineering from Wuhan University of Technology, Wuhan, China in 2017, and the M.S. degree in mechanical engineering from Aalto University, Espoo, Finland in 2019. Her current research interests include edge computing, smart and sustainable cities, and the Internet of Things.
+Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her Ph.D. degree in the Department of Information and Communications Engineering, from Aalto University, Espoo, Finland, in 2023, her M.S. degree in Mechanical Engineering from Aalto University, Espoo, Finland, in 2019, and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017. 
+She has been an active researcher and published high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
+Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
 
 
-# 📖 Educations
-- *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China.
-- *2023.11 - 2024.11*, Ph.D candidate, National Institute of Informatics, Tokyo, Japan.
-- *2018.09 - 2021.06*, Master, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
-- *2014.09 - 2018.06*, Bachelor, School of Software, Dalian University of Technology, Dalian City, Liaoning Province, China.
+# 📖 Educations & Experiences
+- *2024.07 - now*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
+- *2023.12 - 2024.6*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
+- *2023.9 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
+- *2019.11 - 2023.11*, Doctor of Science, Department of Information and Communications Engineering, Aalto University, Espoo, Finland.
+- *2017.09 - 2019.06*, Master of Science, Department of Mechanical Engineering, Aalto University, Espoo, Finland.
+- *2015.01 - 2015.07*, Exchange student, School of Mechanical Engineering, Birmingham University, Birmingham, the UK.
+- *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
 - [TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
