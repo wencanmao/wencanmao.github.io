@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wencan Mao (毛文灿)"
-description              : "A PhD student in Tianjin University. Focusing on IoT, Topology Robustness, and Quantum Computing."
+description              : "Post-doctoral researcher at the National Institute of Informatics (NII), Japan. Focusing on IoT, edge computing, and Intelligent Transportation Systems."
 repository               : "furryq/wencanmao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Songwei Zhang (张松伟)"
+  name             : "Wencan Mao (毛文灿)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
-  location         : "Tianjin, China"
+  bio              : "National Institue of Informatics"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dnH7e-QAAAAJ&hl=zh-CN"
