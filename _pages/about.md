@@ -23,7 +23,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 
-# 📖 Educations & Visiting
+# 📖 Educations and Visiting
 - *2024.07 - now*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.6*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.9 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
@@ -50,7 +50,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Multi-parameters Dynamic Scheduling with Energy Management for Electric Vehicle Charging Stations](https://doi.org/10.1049/cim2.12068), Haodong Wang, Ning Chen, Chao Xu, **Songwei Zhang**, Tie Qiu, **IET Collaborative Intelligent Manufacturing 2022 (SCI-II)**
 - [Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_13), Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C)**
 
-# 💻 Projects & Experiences
+# 💻 Projects and Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
 - *2022.01 - 2023.11*, Volunteer and facilitator, N4WOMEN, Aalto University, Finland. Facilitating meetings for the group that helps women in STEM majors at Aalto University.
 - *2022.11 - 2023.12*, Nordic Mobility Project, INDUSTRIAL INTERNET OF THINGS (IIOT) HUB, NTNU, Norway & KTH, Sweden &
@@ -67,12 +67,13 @@ December 2015, Team Leader of Autopia, WUT. Envision the future transportation s
 
 
 # 🎖 Honors and Awards
-- *2023*, Outstanding Contribution Award received from 2023 IEEE ComSoc School Series Tianjin Event.
-- *2023*, China Scholarship Council (CSC) study abroad scholarship.
-- *2023*, The First Prize Scholarship in Tianjin University.
-- *2023*, Excellent Student at Tianjin University.
-- *2021*, Outstanding Graduates of Regular Colleges and Universities in Liaoning Province. 
-- *2020*, National Scholarship for Postgraduate students.  
-- *2020*, Outstanding postgraduate of Dalian University of Technology. 
-- *2017*, Special prize of Bochuang Cup Science and Technology Competition.
+- *2023*, Doctoral Graduate Scholarship.
+- *2023*, Foundation for Aalto University Science and Technology.
+- *2022–2023*, N4Women Volunteer, Department of Communications and Networking, Aalto University.
+- *2021–2023*, Incentive Scholarship, Department of Computer Science, Aalto University.
+- *2017–2019*, Incentive Scholarship, Department of Mechanical Engineering, Aalto University.
+- *2017–2019*, Dean’s List, Department of Mechanical Engineering, Aalto University.
+- *2015*, Exchange Program Scholarship, China Scholarship Council.
+- *2013–2017*, School-level Scholarship, Wuhan University of Technology.
+- *2013–2017*, Merit Student, Wuhan University of Technology.
 
