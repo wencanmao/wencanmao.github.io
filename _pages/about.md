@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songwei Zhang (S’21)(**zhangsongwei@ieee.org**) received the B.E. and M.E. degrees in software engineering from Dalian University of Technology (DUT) in 2018 and 2021, respectively. He is currently pursuing the Ph.D. degree in Computer Science and Technology with the College of Intelligence and Computing, Tianjin University (TJU), China. He has co-authored 1 Springer Book, and published over 10 scientific papers in international journals and conference proceedings, such as IEEE/ACM Transactions on Networking (ToN), IEEE Transactions on Mobile Computing (TMC), IEEE Internet of Things Journal (IoTJ), IEEE Network, IEEE Wireless Communications, IEEE ICC, SMC, CSCWD, and WASA. He has received several awards, such as National Scholarship, and Outstanding Graduate in Liaoning Province. His research interests include Internet of Things, Topology Robustness, and Quantum Computing. He is a Student Member of IEEE and ACM.
+Wencan Mao (**wencan_mao@nii.ac.jp**) is currently working as a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her Ph.D. degree in the Department of Information and Communications Engineering, from Aalto University, Espoo, Finland. She received the B.E. degree in vehicle engineering from Wuhan University of Technology, Wuhan, China in 2017, and the M.S. degree in mechanical engineering from Aalto University, Espoo, Finland in 2019. Her current research interests include edge computing, smart and sustainable cities, and the Internet of Things.
+
+
 
 # 📖 Educations
 - *2021.09 - now*, Ph.D candidate, College of Intelligence and Computing, Tianjin University, Tianjin City, China.
