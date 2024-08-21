@@ -23,7 +23,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 
-# 📖 Educations and Visiting
+# 📖 Education and Visiting
 - *2024.07 - now*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.6*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.9 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
@@ -34,21 +34,12 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
-- [TEAM: A Layered-Cooperation Topology Evolution Algorithm for Multi-Sink Internet of Things](https://ieeexplore.ieee.org/abstract/document/10143244), **Songwei Zhang**, Tie Qiu, Weisheng Si, Quan Z. Sheng, Dapeng Oliver Wu, **IEEE Transactions on Mobile Computing (TMC) 2023 (CCF-A, SCI-I)**
-- [A Quantum-Behaved Heterogeneous Topology Optimization Model For Optical Wireless Communication Networks](https://ieeexplore.ieee.org/abstract/document/10325449), **Songwei Zhang**, Fu Xiao, Lejun Zhang, Fengbiao Zan, Tie Qiu, **IEEE Wireless Communications 2023 (SCI-I)**
-- [A Robust Networking Model with Quantum Evolution for Internet of Things](https://ieeexplore.ieee.org/abstract/document/10138333), **Songwei Zhang**, Tie Qiu, Ning Chen, Huansheng Ning, Min Han, Xingcheng Liu, **IEEE Network 2023 (SCI-I)**
-- [A Self-Adaptive Robustness Optimization Method With Evolutionary Multi-Agent for IoT Topology](https://ieeexplore.ieee.org/abstract/document/10285720), Tie Qiu, Xinwei Yang, Ning Chen, **Songwei Zhang**, Geyong Min, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2023 (CCF-A, SCI-I)**
-- [An Evolutionary Reinforcement Learning Scheme for IoT Robustness](https://ieeexplore.ieee.org/abstract/document/10152704), Xinwei Yang, Ning Chen, **Songwei Zhang**, Xiaobo Zhou, Lejun Zhang, Tie Qiu, **CSCWD 2023 (CCF-C)**
-- [Born This Way: A Self-Organizing Evolution Scheme With Motif for Internet of Things Robustness](https://ieeexplore.ieee.org/abstract/document/9790892), Tie Qiu, Lidi Zhang, Ning Chen, **Songwei Zhang**, Wenyuan Liu, Dapeng Oliver Wu, **IEEE/ACM Transactions on Networking (ToN) 2022 (CCF-A, SCI-I)**
-- [A 3-D topology evolution scheme with self-adaption for industrial Internet of things](https://ieeexplore.ieee.org/abstract/document/9060903), Tie Qiu, **Songwei Zhang**, Weisheng Si, Qing Cao, Mohammed Atiquzzaman, **IoTJ 2020 (SCI-I)**
-- [Toward more effective centrality-based attacks on network topologies](https://ieeexplore.ieee.org/abstract/document/9148785), **Songwei Zhang**, Weisheng Si, Tie Qiu, Qing Cao, **ICC 2020 (CCF-C)**
-- [Robustness Optimization for IoT Topology](https://link.springer.com/book/10.1007/978-981-16-9609-1?noAccess=true), Tie Qiu, Ning Chen, **Songwei Zhang**, Springer Book, 2022
-- [An evolutional networking model for three-dimensional topology in internet of things](https://ieeexplore.ieee.org/abstract/document/8913966), **Songwei Zhang**, Tie Qiu, Min Han, Azizur Rahim, Wenbing Zhao, **SMC 2019 (CCF-C)**
-- [An Evolutionary Reinforcement Learning Scheme for IoT Robustness](https://ieeexplore.ieee.org/abstract/document/10152704), Xinwei Yang, Ning Chen, **Songwei Zhang**, Xiaobo Zhou, Lejun Zhang, Tie Qiu, **CSCWD 2023 (CCF-C)**
-- [A Neuroevolution-Inspired Scheme for Generating Robust Internet of Things](https://ieeexplore.ieee.org/abstract/document/9776271), Lidi Zhang, **Songwei Zhang**, Ning Chen, Wenyuan Liu, Xiaobo Zhou, Tie Qiu, **CSCWD 2022 (CCF-C)**
-- [Battery Management System Design for Industrial Manufacture](https://ieeexplore.ieee.org/abstract/document/9776233), Haodong Wang, **Songwei Zhang**, Tie Qiu, Hongrui Liu, Ling He, Zimu Wang, **CSCWD 2022 (CCF-C)**
-- [Multi-parameters Dynamic Scheduling with Energy Management for Electric Vehicle Charging Stations](https://doi.org/10.1049/cim2.12068), Haodong Wang, Ning Chen, Chao Xu, **Songwei Zhang**, Tie Qiu, **IET Collaborative Intelligent Manufacturing 2022 (SCI-II)**
-- [Dynamic Mode-switching-based Worker Selection for Mobile Crowd Sensing](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_13), Wei Wang, Ning Chen, **Songwei Zhang**, Keqiu Li, Tie Qiu, **WASA 2022 (CCF-C)**
+- [Multi-agent Reinforcement Learning-based Capacity Planning for On-demand Vehicular Fog Computing](https://ieeexplore.ieee.org/document/10584316), **Wencan Mao**, Jiaming Yin, Yushan Liu, Byungjin Cho, Yang Chen, Weixiong Rao, Yu Xiao, **IEEE Transactions on Intelligent Vehicles**, doi: 10.1109/TIV.2024.3422375.
+- [VFogSim: A Data-Driven Platform for Simulating Vehicular Fog Computing Environment](https://ieeexplore.ieee.org/document/10168727), Özgür Umut Akgül, **Wencan Mao**, Byungjin Cho, Yu Xiao, **IEEE Systems Journal**, vol. 17, no. 3, pp. 5002-5013, Sept. 2023, doi: 10.1109/JSYST.2023.3286329.
+- [On-Demand Vehicular Fog Computing for Beyond 5G Networks](https://ieeexplore.ieee.org/document/10164177), **Wencan Mao**, Ozgur Umut Akgul, Byungjin Cho, Yu Xiao, Antti Ylä-Jääski, **IEEE Transactions on Vehicular Technology**, vol. 72, no. 12, pp. 15237-15253, Dec. 2023, doi: 10.1109/TVT.2023.3289862. 
+- [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085), **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, 2022, pp. 186-187, doi: 10.1109/SMARTCOMP55677.2022.00047.
+- [Data-Driven Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9684543), **Wencan Mao**, Ozgur Umut Akgul, Abbas Mehrabi, Byungjin Cho, Yu Xiao, **IEEE Internet of Things Journal**, vol. 9, no. 15, pp. 13179-13194, 1 Aug.1, 2022, doi: 10.1109/JIOT.2022.3143872.
+- [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation. 
 
 # 💻 Projects and Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
@@ -67,7 +58,7 @@ December 2015, Team Leader of Autopia, WUT. Envision the future transportation s
 
 
 # 🎖 Honors and Awards
-- *2023*, Doctoral Graduate Scholarship.
+- *2023*, Doctoral Graduate Scholarship, Aalto University.
 - *2023*, Foundation for Aalto University Science and Technology.
 - *2022–2023*, N4Women Volunteer, Department of Communications and Networking, Aalto University.
 - *2021–2023*, Incentive Scholarship, Department of Computer Science, Aalto University.
