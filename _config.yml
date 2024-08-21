@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songwei Zhang (张松伟)"
+title                    : "Wencan Mao (毛文灿)"
 description              : "A PhD student in Tianjin University. Focusing on IoT, Topology Robustness, and Quantum Computing."
-repository               : "zhangsongwei97/zhangsongwei97.github.io"
+repository               : "furryq/wencanmao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eQM4KI8AAAAJ"
-  email            : "zhangsongwei@ieee.org"
+  googlescholar    : "https://scholar.google.com/citations?user=dnH7e-QAAAAJ&hl=zh-CN"
+  email            : "wencan_mao@nii.ac.jp"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhangsongwei97"
+  github           : "furryq"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-5870-513X"
+  orcid            : "https://orcid.org/0000-0002-3971-8314"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
