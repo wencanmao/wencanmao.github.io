@@ -46,7 +46,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
 # Submitted Papers
-- Li, D., **Mao, W.**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, under major revision.
+- D. Li, **W. Mao**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, under major revision.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, under minor revision.
 - Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, under major revision.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, under major revision.
