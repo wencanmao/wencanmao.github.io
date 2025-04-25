@@ -57,7 +57,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Wireless Communications, 2025.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
-- B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, IEEE Transactions on Wireless Communications, 2025.
+- B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025.
 
 
 # 💻 Projects and Experiences
