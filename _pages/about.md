@@ -95,3 +95,7 @@ December 2015, Team Leader of Autopia, WUT. Envision the future transportation s
 - *2013–2017*, School-level Scholarship, Wuhan University of Technology.
 - *2013–2017*, Merit Student, Wuhan University of Technology.
 
+# References
+- Prof. Yusheng Ji， Professor, NATIONAL INSTITUTE OF INFORMATICS, JAPAN， kei@nii.ac.jp.
+- Prof. Antti Ylä-Jääski, Professor, AALTO UNIVERSITY, FINLAND, antti.yla-jaaski@aalto.fi.
+- Prof. Yu Xiao, Associate Professor, AALTO UNIVERSITY, FINLAND, yu.xiao@aalto.fi.
