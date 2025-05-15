@@ -45,7 +45,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Data-Driven Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9684543), **Wencan Mao**, Ozgur Umut Akgul, Abbas Mehrabi, Byungjin Cho, and Yu Xiao, **IEEE Internet of Things Journal**, vol. 9, no. 15, pp. 13179-13194, 1 Aug.1, 2022, doi: 10.1109/JIOT.2022.3143872.
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
-# Submitted Papers
+# 📝 Submitted Papers
 - D. Li, **W. Mao**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, **under major revision**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **under major revision**.
@@ -59,8 +59,16 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
 - B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025.
 
+- 
+# 📖 Review Activities
+- *2024-2025*, IEEE IEEE Transactions on Cognitive Communications and Networking (TCCN), IEEE Conference on Vehicular Technology (VTC), IEEE Global Communications Conference (GLOBECOM).
+- *2019-2023*, IEEE Internet of Things Journal (IOT), IEEE Access.
+
 
 # 💻 Projects and Experiences
+- *2025.03 - current*, Japan Science and Technology (JST) Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language model (LLM), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
+- *2024.07 - current*, International Team Project, Aspire, Information Systems Architecture Science Research Division, National Institute of Informatics (NII), Japan \& The University of Tokyo, Japan, Artificial Intelligence (AI) for resource allocation, and resource allocation for AI.
+- *2023.12 - 2024.06*, Industrial Cooperation Project, Ensure, Department of Computer Science, Aalto University, Finland & Nokia Corporation, Finland, Developing simulation and evaluation platform for energy-efficient 6G Tele-cloud.
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
 - *2022.01 - 2023.11*, Volunteer and facilitator, N4WOMEN, Aalto University, Finland. Facilitating meetings for the group that helps women in STEM majors at Aalto University.
 - *2022.11 - 2023.12*, Nordic Mobility Project, INDUSTRIAL INTERNET OF THINGS (IIOT) HUB, NTNU, Norway & KTH, Sweden &
