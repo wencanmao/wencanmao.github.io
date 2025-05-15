@@ -24,7 +24,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 📖 Education and Visiting
-- *2024.07 - now*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
+- *2024.07 - current*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.6*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.9 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
 - *2019.11 - 2023.11*, Doctor of Science, Department of Information and Communications Engineering, Aalto University, Espoo, Finland.
