@@ -67,7 +67,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 # 👩‍🏫 Teaching Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
 - *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, Responsible for slide preparation, personnel managment, activity organization, and tutoring 7 Master students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
-- *2019.09-2019.12*, Pedalogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
+- *2019.09-2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
 
 # 💻 Projects and Activities
 - *2025.03 - current*, Japan Science and Technology (JST) Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language model (LLM), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
