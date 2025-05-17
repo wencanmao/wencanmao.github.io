@@ -61,12 +61,13 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 🔍 Review Activities
-- 2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025).
-- *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025).
-- *2025*, IEEE Global Communications Conference (GLOBECOM 2025).
-- *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall).
-- *2024-2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN).
-- *2019-2023*, IEEE Internet of Things Journal (IOT), IEEE Access.
+- 2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025), reviewer.
+- *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair.
+- *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviwer.
+- *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
+- *2024-2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
+- *2019-2023*, IEEE Access, reviwer.
+- *2019-2023*, IEEE Internet of Things Journal (IOT), revivwer.
 
 # 👩‍🏫 Teaching Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
