@@ -76,7 +76,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 💻 Projects and Activities
 - *2025.03 - current*, Japan Science and Technology (JST) Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language model (LLM), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
-- *2024.07 - current*, International Team Project, Aspire, Information Systems Architecture Science Research Division, National Institute of Informatics (NII), Japan \& The University of Tokyo, Japan, Artificial Intelligence (AI) for resource allocation, and resource allocation for AI.
+- *2024.07 - current*, International Team Project, Aspire, Information Systems Architecture Science Research Division, National Institute of Informatics (NII), Japan & The University of Tokyo, Japan, Artificial Intelligence (AI) for resource allocation, and resource allocation for AI.
 - *2023.12 - 2024.06*, Industrial Cooperation Project, Ensure, Department of Computer Science, Aalto University, Finland & Nokia Corporation, Finland, Developing simulation and evaluation platform for energy-efficient 6G Tele-cloud.
 - *2022.01 - 2023.11*, Volunteer and facilitator, N4WOMEN, Aalto University, Finland. Facilitating meetings for the group that helps women in STEM majors at Aalto University.
 - *2022.11 - 2023.12*, Nordic Mobility Project, INDUSTRIAL INTERNET OF THINGS (IIOT) HUB, NTNU, Norway & KTH, Sweden &
