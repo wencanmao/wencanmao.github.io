@@ -60,13 +60,17 @@ Her research interests include edge computing, reinforcement learning, smart and
 - B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025.
 
 
-# 📝 Review Activities
-- *2024-2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), IEEE Conference on Vehicular Technology (VTC), IEEE Global Communications Conference (GLOBECOM).
+# 🔍 Review Activities
+- 2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025).
+- *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025).
+- *2025*, IEEE Global Communications Conference (GLOBECOM 2025).
+- *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall).
+- *2024-2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN).
 - *2019-2023*, IEEE Internet of Things Journal (IOT), IEEE Access.
 
 # 👩‍🏫 Teaching Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
-- *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, Responsible for slide preparation, personnel managment, activity organization, and tutoring 7 Master students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
+- *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, responsible for slide preparation, personnel managment, activity organization, and tutoring 7 Master students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
 - *2019.09-2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
 
 # 💻 Projects and Activities
