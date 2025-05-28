@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her D.Sc. degree in the Department of Information and Communications Engineering, from Aalto University, Espoo, Finland, in 2023, her M.S. degree in Mechanical Engineering, from Aalto University, Espoo, Finland, in 2019, and her B.E. degree in Vehicle Engineering, from Wuhan University of Technology, Wuhan, China, in 2017. 
-She has been an active researcher and published high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
+She has been an active researcher, publishing high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
 Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
 
@@ -46,7 +46,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
 # 📝 Submitted Papers
-- D. Li, **W. Mao**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, **under major revision**.
+- D. Li, **W. Mao**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, **accepted**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
@@ -66,14 +66,14 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair.
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
-- *2024-2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
-- *2019-2023*, IEEE Access, reviewer.
-- *2019-2023*, IEEE Internet of Things Journal (IOT), reviewer.
+- *2024 - 2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
+- *2019 - 2023*, IEEE Access, reviewer.
+- *2019 - 2023*, IEEE Internet of Things Journal (IOT), reviewer.
 
 # 👩‍🏫 Teaching Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
 - *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, responsible for slide preparation, personnel managment, activity organization for 100+ students, and tutoring 7 Master students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
-- *2019.09-2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
+- *2019.09 - 2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
 
 # 💻 Projects and Activities
 - *2025.03 - current*, Japan Science and Technology (JST) Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language model (LLM), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
@@ -94,13 +94,13 @@ December 2015, Team Leader of Autopia, WUT. Envision the future transportation s
 # 🏅 Honors and Awards
 - *2023*, Doctoral Graduate Scholarship, Aalto University.
 - *2023*, Foundation for Aalto University Science and Technology.
-- *2022–2023*, N4Women Volunteer, Department of Communications and Networking, Aalto University.
-- *2021–2023*, Incentive Scholarship, Department of Computer Science, Aalto University.
-- *2017–2019*, Incentive Scholarship, Department of Mechanical Engineering, Aalto University.
-- *2017–2019*, Dean’s List, Department of Mechanical Engineering, Aalto University.
+- *2022 – 2023*, N4Women Volunteer, Department of Communications and Networking, Aalto University.
+- *2021 – 2023*, Incentive Scholarship, Department of Computer Science, Aalto University.
+- *2017 – 2019*, Incentive Scholarship, Department of Mechanical Engineering, Aalto University.
+- *2017 – 2019*, Dean’s List, Department of Mechanical Engineering, Aalto University.
 - *2015*, Exchange Program Scholarship, China Scholarship Council.
-- *2013–2017*, School-level Scholarship, Wuhan University of Technology.
-- *2013–2017*, Merit Student, Wuhan University of Technology.
+- *2013 – 2017*, School-level Scholarship, Wuhan University of Technology.
+- *2013 – 2017*, Merit Student, Wuhan University of Technology.
 
 # 🌟 References
 - Prof. Yusheng Ji，Professor (supervisor during post-doc), NATIONAL INSTITUTE OF INFORMATICS, JAPAN，kei@nii.ac.jp.
