@@ -34,6 +34,8 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
+- Danya Li, Wencan Mao, Francisco C. Pereira, Yu Xiao, Xiang Su, Rico Krueger,
+[Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review](https://www.sciencedirect.com/science/article/pii/S1369847825001950), **Transportation Research Part F: Traffic Psychology and Behaviour**, Volume 114, 2025, Pages 270-307, ISSN 1369-8478, https://doi.org/10.1016/j.trf.2025.05.031.
 - [Self-Adjusting Network Slicing for Dynamic Heterogeneous Task Offloading in UAV-Enabled Mobile Edge Computing](https://ieeexplore.ieee.org/document/10981857), Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, and Wei Huangfu, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3565942.
 - [Understanding and predicting human behavior in interactions with autonomous systems in urban environments: a systematic review, challenges, and opportunities](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_3882.pdf), Danya Li, **Wencan Mao**, Francisco Pereira, Yu Xiao, Xiang Su, and Rico Krueger, **hEART 2024: 12th Symposium of the European Association for Research in Transportation European Association for Research in Transportation**. 
 - [UAV-Assisted Integrated Sensing and Communication for Emergency Rescue Activities Based on Transfer Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3636534.3698220), Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yusheng Ji, and Yu Xiao, **Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '24)**, doi: 10.1145/3636534.3698220.
@@ -46,13 +48,12 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
 # 📝 Submitted Papers
-- D. Li, **W. Mao**, et al., Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review, submitted to TRF: Traffic Psychology and Behaviour, 2024, **accepted**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
+- Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, submitted to IEEE Transactions on Communications, 2024.
-- Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Wireless Communications, 2025.
