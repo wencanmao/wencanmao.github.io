@@ -47,9 +47,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
 # 📝 Submitted Papers
+- Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **accepted**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
-- Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
