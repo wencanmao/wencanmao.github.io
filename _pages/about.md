@@ -34,6 +34,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
+- [Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication](https://ieeexplore.ieee.org/document/11063465), Yaxi Liu, Quanxi Zhou, **Wencan Mao**, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3585254.
 - [Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review](https://www.sciencedirect.com/science/article/pii/S1369847825001950), Danya Li, **Wencan Mao**, Francisco C. Pereira, Yu Xiao, Xiang Su, Rico Krueger, **Transportation Research Part F: Traffic Psychology and Behaviour**, Volume 114, 2025, Pages 270-307, ISSN 1369-8478, https://doi.org/10.1016/j.trf.2025.05.031.
 - [Self-Adjusting Network Slicing for Dynamic Heterogeneous Task Offloading in UAV-Enabled Mobile Edge Computing](https://ieeexplore.ieee.org/document/10981857), Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, and Wei Huangfu, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3565942.
 - [Understanding and predicting human behavior in interactions with autonomous systems in urban environments: a systematic review, challenges, and opportunities](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_3882.pdf), Danya Li, **Wencan Mao**, Francisco Pereira, Yu Xiao, Xiang Su, and Rico Krueger, **hEART 2024: 12th Symposium of the European Association for Research in Transportation European Association for Research in Transportation**. 
@@ -47,7 +48,6 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 
 # 📝 Submitted Papers
-- Y. Liu, Q. Zhou, **W. Mao**, et al., Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication, submitted to IEEE Transactions on Cognitive Communications and Networking, 2024, **accepted**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
