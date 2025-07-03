@@ -46,6 +46,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085), **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, 2022, pp. 186-187, doi: 10.1109/SMARTCOMP55677.2022.00047.
 - [Data-Driven Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9684543), **Wencan Mao**, Ozgur Umut Akgul, Abbas Mehrabi, Byungjin Cho, and Yu Xiao, **IEEE Internet of Things Journal**, vol. 9, no. 15, pp. 13179-13194, 1 Aug.1, 2022, doi: 10.1109/JIOT.2022.3143872.
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
+- [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
