@@ -49,11 +49,11 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
+- Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, submitted to IEEE Transactions on Communications, 2024, **accepted**.
 - Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
-- Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025, **under major revision**.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
