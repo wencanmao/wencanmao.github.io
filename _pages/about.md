@@ -34,8 +34,8 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
-- Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, submitted to IEEE Transactions on Communications, 2024, **accepted**.
-- Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, submitted to IEEE Transactions on Vehicular Technology, 2024, **accepted**.
+- Y. Liu, **W. Mao**, et al., Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication, **IEEE Transactions on Communications**, 2025, **accepted**.
+- Y. Liu, **W. Mao**, et al., Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities, **IEEE Transactions on Vehicular Technology**, 2025, **accepted**.
 - [Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication](https://ieeexplore.ieee.org/document/11063465), Yaxi Liu, Quanxi Zhou, **Wencan Mao**, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3585254.
 - [Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review](https://www.sciencedirect.com/science/article/pii/S1369847825001950), Danya Li, **Wencan Mao**, Francisco C. Pereira, Yu Xiao, Xiang Su, Rico Krueger, **Transportation Research Part F: Traffic Psychology and Behaviour**, Volume 114, 2025, Pages 270-307, ISSN 1369-8478, https://doi.org/10.1016/j.trf.2025.05.031.
 - [Self-Adjusting Network Slicing for Dynamic Heterogeneous Task Offloading in UAV-Enabled Mobile Edge Computing](https://ieeexplore.ieee.org/document/10981857), Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, and Wei Huangfu, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3565942.
@@ -60,6 +60,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Wireless Communications, 2025.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
 - A. Debner, **W. Mao**, et al., dtS2C: A Data-driven Framework for Simulating and Evaluating Digital Twin Edge Network of Smart and Sustainable Cities, submitted to IEEE Transactions on Sustainable Computing, 2025.
+- M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Journal on Selected Areas in Communications, 2025.
 
 
 # 🔍 Review Activities
