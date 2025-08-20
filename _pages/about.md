@@ -34,6 +34,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
+- [Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication](https://ieeexplore.ieee.org/document/11129138), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Yu Xiao, Fangxin Wang, Yuhsneg Ji, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3599902.
 - [Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities](https://ieeexplore.ieee.org/document/11091546), Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yu Xiao, Yusheng Ji, Haijun Zhang, Keping Long, **IEEE Transactions on Vehicular Technology**, doi: 10.1109/TVT.2025.3591850.
 - [Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication](https://ieeexplore.ieee.org/document/11090168), Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yusheng Ji, Yu Xiao, Keping Long, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3591748.
 - [Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication](https://ieeexplore.ieee.org/document/11063465), Yaxi Liu, Quanxi Zhou, **Wencan Mao**, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, **IEEE Transactions on Cognitive Communications and Networking**, doi: 10.1109/TCCN.2025.3585254.
@@ -51,7 +52,6 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
-- B. He, **W. Mao**, et al., Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication, submitted to IEEE Transactions on Communications, 2024, **accepted**.
 - Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **under major revision**.
 - B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025, **under major revision**.
