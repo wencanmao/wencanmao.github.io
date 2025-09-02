@@ -53,7 +53,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 📝 Submitted Papers
 - B. He, **W. Mao**, et al., On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme, submitted to IEEE Transactions on Communications, 2024, **accepted**.
-- Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **under minor revision**.
+- Q. Zhou, **W. Mao**, et al., Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs, submitted to IEEE Transactions on Vehicular Technology, 2024, **accepted**.
 - B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, submitted to IEEE Transactions on Wireless Communications, 2025, **under major revision**.
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
