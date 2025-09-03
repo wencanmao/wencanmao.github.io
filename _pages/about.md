@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her D.Sc. degree in the Department of Information and Communications Engineering, from Aalto University, Espoo, Finland, in 2023, her M.S. degree in Mechanical Engineering, from Aalto University, Espoo, Finland, in 2019, and her B.E. degree in Vehicle Engineering, from Wuhan University of Technology, Wuhan, China, in 2017. 
+Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her D.Sc. degree in the Department of Information and Communications Engineering from Aalto University, Espoo, Finland, in 2023, her M.S. degree in Mechanical Engineering from Aalto University, Espoo, Finland, in 2019, and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017. 
 She has been an active researcher, publishing high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
 Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
@@ -84,13 +84,13 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2024.07 - current*, Japan Science and Technology (JST) Project, Aspire, Information Systems Architecture Science Research Division, National Institute of Informatics (NII), Japan & The University of Tokyo, Japan. Artificial Intelligence (AI) for resource allocation, and resource allocation for AI.
 - *2023.12 - 2024.06*, Industrial Cooperation Project, Ensure, Department of Computer Science, Aalto University, Finland & Nokia Corporation, Finland, Developing a simulation and evaluation platform for energy-efficient 6G Tele-cloud.
 - *2022.01 - 2023.11*, Volunteer and facilitator, N4WOMEN, Aalto University, Finland. Facilitating meetings for the group that helps women in STEM majors at Aalto University.
-- *2022.11 - 2023.12*, Nordic Mobility Project, INDUSTRIAL INTERNET OF THINGS (IIOT) HUB, NTNU, Norway & KTH, Sweden &
+- *2022.11 - 2023.12*, Nordic Mobility Project, Industrial Internet of Things (IIOT) Hub, NTNU, Norway & KTH, Sweden &
 Lund, Sweden & Aalto, Finland & DTU, Denmark. Attend Conference 2022 at the Norwegian University of Science and Technology (NTNU), Norway. Attend Student Meeting 2023 at Aalto University & Telia workshop & Maillefer Extrusion Oy visit.
-- *2019.06 - 2019.09*, Research assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University,
+- *2019.06 - 2019.09*, Research assistant, Department of Information and Communications Engineering, Aalto University,
 Finland. Establish data-driven capacity planning and resource management platforms for fog computing.
-- *2018.06 - 2018.08*, Process and Tool Development Specialist Trainee, KONE CORPORATION, Shanghai, China. Managing a large quantity of major project installation data & people flow data. Communicating with field managers, project managers, and field engineers about the data, getting feedback, and adjusting the installation progress.
+- *2018.06 - 2018.08*, Process and Tool Development Specialist Trainee, KONE Corporation, Shanghai, China. Managing a large quantity of major project installation data & people flow data, communicating with field managers, project managers, and field engineers about the data, getting feedback, and adjusting the installation progress.
 - *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of Lidar, GPS, and dual-camera to detect edge features and localize the vehicle in the high-precision map.
-- *2015.12 - 2016.08*, International Team Project, CONNECTED MOBILITY SOLUTION, Wuhan University of Technology, China. Team Leader of Autopia, WUT. Envision the future transportation system composed of autonomous vehicles, with cutting-edge vehicular technologies and the Internet of Vehicles (IoV). Exhibited in the PACE 2016 Global Conference poster session at the University of Cincinnati, USA.
+- *2015.12 - 2016.08*, International Team Project, Connected Mobility Solution, Wuhan University of Technology, China. Team Leader of Autopia, WUT. Envision the future transportation system composed of autonomous vehicles, with cutting-edge vehicular technologies and the Internet of Vehicles (IoV). Exhibited in the PACE 2016 Global Conference poster session at the University of Cincinnati, USA.
 
 
 # 🏅 Honors and Awards
@@ -105,6 +105,6 @@ Finland. Establish data-driven capacity planning and resource management platfor
 - *2013 – 2017*, Merit Student, Wuhan University of Technology.
 
 # 🌟 References
-- Prof. Yusheng Ji，Professor (supervisor during post-doc), NATIONAL INSTITUTE OF INFORMATICS, JAPAN，kei@nii.ac.jp.
+- Prof. Yusheng Ji, Professor (supervisor during post-doc), NATIONAL INSTITUTE OF INFORMATICS, JAPAN，kei@nii.ac.jp.
 - Prof. Antti Ylä-Jääski, Professor (supervisor during doc and post-doc), AALTO UNIVERSITY, FINLAND, antti.yla-jaaski@aalto.fi.
 - Prof. Yu Xiao, Associate Professor (supervisor during doc), AALTO UNIVERSITY, FINLAND, yu.xiao@aalto.fi.
