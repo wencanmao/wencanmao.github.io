@@ -66,7 +66,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 # 🔍 Review Activities
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
 - *2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025), poster/demo program committee.
-- *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair.
+- *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair, PC member.
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
 - *2024 - 2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
