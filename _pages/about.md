@@ -108,6 +108,6 @@ Finland. Establish data-driven capacity planning and resource management platfor
 
 # 🌟 References
 - Prof. Yusheng Ji, Professor (supervisor during post-doc), National Institute of Informatics, Japan, kei@nii.ac.jp, https://klab.nii.ac.jp/.
-<!--- Prof. Antti Ylä-Jääski, Professor (supervisor during doc and post-doc), Aalto University, Finland, antti.yla-jaaski@aalto.fi.--->
-- Prof. John C.S. Lui, Professor (collaborator during post-doc), The Chinese University of Hong Kong, cslui@cse.cuhk.edu.hk, https://www.cse.cuhk.edu.hk/~cslui/.
+- Prof. Antti Ylä-Jääski, Professor (supervisor during doc and post-doc), Aalto University, Finland, antti.yla-jaaski@aalto.fi.
+<!--- Prof. John C.S. Lui, Professor (collaborator during post-doc), The Chinese University of Hong Kong, cslui@cse.cuhk.edu.hk, https://www.cse.cuhk.edu.hk/~cslui/.--->
 - Prof. Yu Xiao, Associate Professor (supervisor during doc), Aalto University, Finland, yu.xiao@aalto.fi, https://mobilecloud.aalto.fi/.
