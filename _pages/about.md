@@ -34,7 +34,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
-- B. He, **W. Mao**, et al., Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems, **IEEE Transactions on Wireless Communications**, 2025, accepted.
+- [Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems](https://ieeexplore.ieee.org/document/11215603), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Fangxin Wang, Haijun Zhang, **IEEE Transactions on Wireless Communications**, doi: 10.1109/TWC.2025.3621759.
 - [On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme](https://ieeexplore.ieee.org/document/11152368), Boxin He, **Wencan Mao**, Yaxi Liu, Fangxin Wang, Wei Huangfu, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3606656.
 - [Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs](https://ieeexplore.ieee.org/document/11150734), Quanxi Zhou, **Wencan Mao**, Jin Nakazato, Yusheng Ji, Manabu Tsukada, **IEEE Transactions on Vehicular Technology**, doi: 10.1109/TVT.2025.3606201.
 - [Energy-Efficient Joint Beamforming and Trajectory Optimization for UAV-Enabled Integrated Sensing and Communication](https://ieeexplore.ieee.org/document/11129138), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Yu Xiao, Fangxin Wang, Yuhsneg Ji, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3599902.
