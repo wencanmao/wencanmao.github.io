@@ -56,6 +56,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 📝 Submitted Papers
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under major revision**.
+- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communciations Magazine, 2025.
 - **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anaonymous review.
 - Q. Zhou, **W. Mao** (equally contributted), submitted to The Fourteenth International Conference on Learning Representations (ICLR) 2026, under double-anaonymous review.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
