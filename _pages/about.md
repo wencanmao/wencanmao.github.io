@@ -55,9 +55,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
+- X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under major revision**.
 - **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anaonymous review.
 - Q. Zhou, **W. Mao** (equally contributted), submitted to The Fourteenth International Conference on Learning Representations (ICLR) 2026, under double-anaonymous review.
-- X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
