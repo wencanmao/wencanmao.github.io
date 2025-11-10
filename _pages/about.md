@@ -57,9 +57,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 # 📝 Submitted Papers
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under major revision**.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to Science China Information Sciences, 2025.
-- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communciations Magazine, 2025.
-- **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anaonymous review.
-- Q. Zhou, **W. Mao** (equally contributted), submitted to The Fourteenth International Conference on Learning Representations (ICLR) 2026, under double-anaonymous review.
+- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communications Magazine, 2025.
+- **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anonymous review.
+- Q. Zhou, **W. Mao** (equally contributed), submitted to The Fourteenth International Conference on Learning Representations (ICLR) 2026, under double-anonymous review.
 - Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
@@ -68,6 +68,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 🔍 Review Activities
+- *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
 - *2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025), poster/demo program committee.
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair, PC member.
@@ -93,7 +94,7 @@ Lund, Sweden & Aalto, Finland & DTU, Denmark. Attend Conference 2022 at the Norw
 - *2019.06 - 2019.09*, Research assistant, Department of Information and Communications Engineering, Aalto University,
 Finland. Establish data-driven capacity planning and resource management platforms for fog computing.
 - *2018.06 - 2018.08*, Process and Tool Development Specialist Trainee, KONE Corporation, Shanghai, China. Managing a large quantity of major project installation data & people flow data, communicating with field managers, project managers, and field engineers about the data, getting feedback, and adjusting the installation progress.
-- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of Lidar, GPS, and dual-camera to detect edge features and localize the vehicle in the high-precision map.
+- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of Lidar, GPS, and dual-camera to detect edge features and localize the vehicle in a high-precision map.
 - *2015.12 - 2016.08*, International Team Project, Connected Mobility Solution, Wuhan University of Technology, China. Team Leader of Autopia, WUT. Envision the future transportation system composed of autonomous vehicles, with cutting-edge vehicular technologies and the Internet of Vehicles (IoV). Exhibited in the PACE 2016 Global Conference poster session at the University of Cincinnati, USA.
 
 
