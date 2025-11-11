@@ -68,6 +68,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 🔍 Review Activities
+- *2026*, IEEE International Conference on Computer Communications (INFOCOM 2026), TPC member.
 - *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
 - *2025*, Ubiquitous computing / Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT 2025), poster/demo program committee.
