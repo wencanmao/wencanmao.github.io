@@ -60,11 +60,11 @@ Her research interests include edge computing, reinforcement learning, smart and
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communications Magazine, 2025.
 - **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anonymous review.
 - Q. Zhou, **W. Mao** (equally contributed), submitted to The Fourteenth International Conference on Learning Representations (ICLR) 2026, under double-anonymous review.
-- Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Mobile Computing, 2025.
+- Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Intelligent Transportation Systems, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
 - A. Debner, **W. Mao**, et al., dtS2C: A Data-driven Framework for Simulating and Evaluating Digital Twin Edge Network of Smart and Sustainable Cities, submitted to IEEE Transactions on Sustainable Computing, 2025.
-- M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Journal on Selected Areas in Communications, 2025.
+- M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Wireless Communications, 2025.
 
 
 # 🔍 Review Activities
