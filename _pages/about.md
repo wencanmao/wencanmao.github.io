@@ -60,9 +60,10 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao** (equally contributed), FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments, submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
 - **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anonymous review.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communications Magazine, 2025.
+- B. He, **W. Mao**, et al., Active Service Caching-Enabled Air-Ground Collaborative Mobile Edge Computing, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2025.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to Science China Information Sciences, 2025.
-- Q. Zhou, **W. Mao**, et al., Feature-Driven Multi-Agent Reinforcement Learning for UAV Trajectory Planning and Resource Allocation in Dynamic Environments, submitted to IEEE Transactions on Intelligent Transportation Systems, 2025.
+- Q. Zhou, **W. Mao**, et al., Trajectory Planning and Power Allocation for UAVs in Dynamic Environments Using Feature-Driven Multi-Agent Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
 - Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
 - A. Debner, **W. Mao**, et al., dtS2C: A Data-driven Framework for Simulating and Evaluating Digital Twin Edge Network of Smart and Sustainable Cities, submitted to IEEE Transactions on Sustainable Computing, 2025.
