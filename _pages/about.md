@@ -55,10 +55,10 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
-- X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under major revision**.
+- X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under minor revision**.
 - Q. Zhou, **W. Mao** (equally contributed), EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture, submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
 - Q. Zhou, **W. Mao** (equally contributed), FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments, submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
-- **W. Mao**, et al., submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026, under double-anonymous review.
+- **W. Mao**, et al., Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communications Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2025.
