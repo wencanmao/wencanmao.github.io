@@ -85,6 +85,7 @@ Conferences
 Journals
 - *2026*, IEEE Journal on Selected Areas in Communications, reviewer.
 - *2026*, IEEE Transaction on Vehicular Technology, reviewer.
+- *2025 - 2026*, Pervasive and Mobile Computing, reviewer.
 - *2024 - 2026*, IEEE Transactions on Cognitive Communications and Networking, reviewer.
 - *2019 - 2023*, IEEE Access, reviewer.
 - *2019 - 2023*, IEEE Internet of Things Journal, reviewer.
