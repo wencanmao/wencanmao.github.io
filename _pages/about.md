@@ -81,6 +81,7 @@ Conferences
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair, PC member.
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
+
 Journals
 - *2026*, IEEE Journal on Selected Areas in Communications, reviewer.
 - *2026*, IEEE Transaction on Vehicular Technology, reviewer.
