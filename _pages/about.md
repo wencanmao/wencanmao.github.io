@@ -61,7 +61,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao** (equally contributed), et al., [EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture](https://arxiv.org/abs/2512.18596), submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
 - Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
 - **W. Mao**, et al., [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604), submitted to IEEE International Conference on Robotics and Automation (ICRA) 2026.
-- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Communications Magazine, 2025.
+- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Internet of Things Journal, 2025.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Wireless Communications, 2025.
@@ -73,6 +73,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 🔍 Review Activities
+Conferences
 - *2026*, IEEE International Conference on Computer Communications (INFOCOM 2026) Workshop, TPC member.
 - *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
@@ -80,7 +81,10 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair, PC member.
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
-- *2024 - 2025*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
+Journals
+- *2026*, IEEE Journal on Selected Areas in Communications, reviewer.
+- *2026*, IEEE Transaction on Vehicular Technology, reviewer.
+- *2024 - 2026*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
 - *2019 - 2023*, IEEE Access, reviewer.
 - *2019 - 2023*, IEEE Internet of Things Journal (IOT), reviewer.
 
