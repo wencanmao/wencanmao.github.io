@@ -34,7 +34,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
-Conferences
+**Conferences**
 - A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0, Zehui Li, **Wencan Mao**, Xulong Li, Yaxi Liu, Wei Huangfu, Yusheng Ji, **The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan, 2026.
 - Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0, Quanxi Zhou, **Wencan Mao (equally contributed)**, Yu Xiao, Manabu Tsukada, Yusheng Ji, **The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan, 2026.
 - [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604), **Wencan Mao**, Quanxi Zhou (equally contributed), Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, **IEEE International Conference on Robotics & Automation (ICRA 2026)**, Vienna, Austria, 2026.
@@ -42,7 +42,7 @@ Conferences
 - [UAV-Assisted Integrated Sensing and Communication for Emergency Rescue Activities Based on Transfer Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3636534.3698220), Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yusheng Ji, and Yu Xiao, **Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '24)**, doi: 10.1145/3636534.3698220.
 - [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085), **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, 2022, pp. 186-187, doi: 10.1109/SMARTCOMP55677.2022.00047.
 
-Journals
+**Journals**
 - [Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems](https://ieeexplore.ieee.org/document/11215603), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Fangxin Wang, Haijun Zhang, **IEEE Transactions on Wireless Communications**, doi: 10.1109/TWC.2025.3621759.
 - [On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme](https://ieeexplore.ieee.org/document/11152368), Boxin He, **Wencan Mao**, Yaxi Liu, Fangxin Wang, Wei Huangfu, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3606656.
 - [Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs](https://ieeexplore.ieee.org/document/11150734), Quanxi Zhou, **Wencan Mao**, Jin Nakazato, Yusheng Ji, Manabu Tsukada, **IEEE Transactions on Vehicular Technology**, doi: 10.1109/TVT.2025.3606201.
@@ -58,14 +58,17 @@ Journals
 - [On-Demand Vehicular Fog Computing for Beyond 5G Networks](https://ieeexplore.ieee.org/document/10164177), **Wencan Mao**, Ozgur Umut Akgul, Byungjin Cho, Yu Xiao, and Antti Ylä-Jääski, **IEEE Transactions on Vehicular Technology**, vol. 72, no. 12, pp. 15237-15253, Dec. 2023, doi: 10.1109/TVT.2023.3289862. 
 - [Data-Driven Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9684543), **Wencan Mao**, Ozgur Umut Akgul, Abbas Mehrabi, Byungjin Cho, and Yu Xiao, **IEEE Internet of Things Journal**, vol. 9, no. 15, pp. 13179-13194, 1 Aug.1, 2022, doi: 10.1109/JIOT.2022.3143872.
 
-Dissertations
+**Dissertations**
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
 # 📝 Submitted Papers
+**Conferences**
+- Q. Zhou, **W. Mao** (equally contributed), et al., [EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture](https://arxiv.org/abs/2512.18596), submitted to a conference.
+- Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to a conference.
+
+**Journals**
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under minor revision**.
-- Q. Zhou, **W. Mao** (equally contributed), et al., [EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture](https://arxiv.org/abs/2512.18596), submitted.
-- Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Internet of Things Journal, 2025.
@@ -78,7 +81,7 @@ Dissertations
 
 
 # 🔍 Review Activities
-Conferences
+**Conferences**
 - *2026*, IEEE International Conference on Computer Communications (INFOCOM 2026) Workshop, TPC member.
 - *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
@@ -87,7 +90,7 @@ Conferences
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
 
-Journals
+**Journals**
 - *2026*, IEEE Journal on Selected Areas in Communications, reviewer.
 - *2026*, IEEE Transaction on Vehicular Technology, reviewer.
 - *2025 - 2026*, Pervasive and Mobile Computing, reviewer.
