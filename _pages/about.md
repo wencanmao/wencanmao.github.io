@@ -34,7 +34,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2013.09 - 2017.06*, Bachelor of Engineering, School of Vehicle Engineering, Wuhan University of Technology, Wuhan, China.
 
 # 📝 Publications 
-- [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604), **Wencan Mao**, Quanxi Zhou, Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, **IEEE International Conference on Robotics & Automation (ICRA 2026)**, Vienna, Austria, 2026.
+- [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604), **Wencan Mao**, Quanxi Zhou (equally contributed), Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, **IEEE International Conference on Robotics & Automation (ICRA 2026)**, Vienna, Austria, 2026.
+- [A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0], Zehui Li, **Wencan Mao**, Xulong Li, Yaxi Liu, Wei Huangfu, Yusheng Ji, **The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan.
+- [Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0], Quanxi Zhou, **Wencan Mao (equally contributed)**, Yu Xiao, Manabu Tsukada, Yusheng Ji**The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan.
 - [Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems](https://ieeexplore.ieee.org/document/11215603), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Fangxin Wang, Haijun Zhang, **IEEE Transactions on Wireless Communications**, doi: 10.1109/TWC.2025.3621759.
 - [On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme](https://ieeexplore.ieee.org/document/11152368), Boxin He, **Wencan Mao**, Yaxi Liu, Fangxin Wang, Wei Huangfu, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3606656.
 - [Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs](https://ieeexplore.ieee.org/document/11150734), Quanxi Zhou, **Wencan Mao**, Jin Nakazato, Yusheng Ji, Manabu Tsukada, **IEEE Transactions on Vehicular Technology**, doi: 10.1109/TVT.2025.3606201.
@@ -57,10 +59,8 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 📝 Submitted Papers
 - X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under minor revision**.
-- Z. Li, **W. Mao**, et al., A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0, submitted to The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop.
-- Q. Zhou, **W. Mao** (equally contributed), et al., Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0, submitted to The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop.
-- Q. Zhou, **W. Mao** (equally contributed), et al., [EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture](https://arxiv.org/abs/2512.18596), submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
-- Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to The 24th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2026.
+- Q. Zhou, **W. Mao** (equally contributed), et al., [EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture](https://arxiv.org/abs/2512.18596), submitted.
+- Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Internet of Things Journal, 2025.
