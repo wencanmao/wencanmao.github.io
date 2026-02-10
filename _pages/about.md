@@ -58,7 +58,7 @@ Journals
 - [On-Demand Vehicular Fog Computing for Beyond 5G Networks](https://ieeexplore.ieee.org/document/10164177), **Wencan Mao**, Ozgur Umut Akgul, Byungjin Cho, Yu Xiao, and Antti Ylä-Jääski, **IEEE Transactions on Vehicular Technology**, vol. 72, no. 12, pp. 15237-15253, Dec. 2023, doi: 10.1109/TVT.2023.3289862. 
 - [Data-Driven Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9684543), **Wencan Mao**, Ozgur Umut Akgul, Abbas Mehrabi, Byungjin Cho, and Yu Xiao, **IEEE Internet of Things Journal**, vol. 9, no. 15, pp. 13179-13194, 1 Aug.1, 2022, doi: 10.1109/JIOT.2022.3143872.
 
-Dissertation
+Dissertations
 - [Capacity Planning for Vehicular Fog Computing](https://aaltodoc.aalto.fi/items/64134a5d-8d64-4bce-b7f3-45c04df8623d), **Wencan Mao**, Doctoral dissertation.
 - [Vision-based vehicle detection and tracking in intelligent transportation system](https://aaltodoc.aalto.fi/items/e76a35e4-58c8-44aa-8871-d114bddb0b45), **Wencan Mao**, Master's thesis.
 
