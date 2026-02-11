@@ -43,6 +43,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085), **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, 2022, pp. 186-187, doi: 10.1109/SMARTCOMP55677.2022.00047.
 
 **Journals**
+- Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, Wei Huangfu, Keping Long,　Yu Xiao, and Yusheng　Ji, **IEEE Transactions on Mobile Computing**, 2026，accepted.
 - [Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems](https://ieeexplore.ieee.org/document/11215603), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Fangxin Wang, Haijun Zhang, **IEEE Transactions on Wireless Communications**, doi: 10.1109/TWC.2025.3621759.
 - [On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme](https://ieeexplore.ieee.org/document/11152368), Boxin He, **Wencan Mao**, Yaxi Liu, Fangxin Wang, Wei Huangfu, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3606656.
 - [Uncertainty-Aware Multi-Agent Reinforcement Learning for Anti-Interference Trajectory Planning of Cellular-Connected UAVs](https://ieeexplore.ieee.org/document/11150734), Quanxi Zhou, **Wencan Mao**, Jin Nakazato, Yusheng Ji, Manabu Tsukada, **IEEE Transactions on Vehicular Technology**, doi: 10.1109/TVT.2025.3606201.
@@ -68,7 +69,6 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to a conference.
 
 **Journals**
-- X. Li, **W. Mao**, et al., Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025，**under minor revision**.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Internet of Things Journal, 2025.
