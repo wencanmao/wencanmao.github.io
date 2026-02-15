@@ -71,7 +71,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 **Journals**
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
-- Q. Zhou, **W. Mao**, et al., Terrain-Adapted UAV-Based Smart Agriculture Using Feature-Driven Reinforcement Learning, submitted to IEEE Internet of Things Journal, 2025.
+- Q. Zhou, **W. Mao**, et al., Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2025.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Wireless Communications, 2025.
 - Q. Zhou, **W. Mao**, et al., Trajectory Planning and Power Allocation for UAVs in Dynamic Environments Using Feature-Driven Multi-Agent Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
