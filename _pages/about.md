@@ -21,6 +21,9 @@ Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the Natio
 She has been an active researcher, publishing high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
 Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
+ORCID: 0000-0002-3971-8314
+[Google Scholar](https://scholar.google.com/citations?user=dnH7e-QAAAAJ&hl=zh-CN)
+
 
 
 # 📖 Education and Visiting
