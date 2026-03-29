@@ -68,13 +68,15 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to a conference.
 
 **Journals**
+- Q. Xu, **W.Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, **under minor revision**.
+- J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to Transactions on Sustainable Computing, 2026.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Q. Zhou, **W. Mao**, et al., Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2025.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Wireless Communications, 2025.
 - Q. Zhou, **W. Mao**, et al., Trajectory Planning and Power Allocation for UAVs in Dynamic Environments Using Feature-Driven Multi-Agent Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2025.
 - Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2025.
-- Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Transactions on Geoscience and Remote Sensing, 2025.
+- Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025.
 - A. Debner, **W. Mao**, et al., dtS2C: A Data-driven Framework for Simulating and Evaluating Digital Twin Edge Network of Smart and Sustainable Cities, submitted to IEEE Transactions on Sustainable Computing, 2025.
 - M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Wireless Communications, 2025.
 
