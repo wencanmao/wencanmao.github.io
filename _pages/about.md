@@ -22,7 +22,7 @@ She has been an active researcher, publishing high-quality scientific papers in 
 Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
 
-# 📖 Education and Visiting
+# 📖 Education and Research
 - *2026.04 - current*, Joint post-doctoral researcher / research assistant professor, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan / Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
 - *2024.07 - 2026.03*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.06*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
