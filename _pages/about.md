@@ -134,8 +134,8 @@ Finland. Establish data-driven capacity planning and resource management platfor
 # 🌟 References
 - Prof. Kensuke Fukuda, Professor (supervisor 2026-current), National Institute of Informatics, Japan, kensuke@nii.ac.jp, http://www.flab.nii.ac.jp/.
 - Prof. Manabu Tsukada, Associate Professor (supervisor 2026-current), The University of Tokyo, mtsukada@g.ecc.u-tokyo.ac.jp, https://tlab.hongo.wide.ad.jp/.
-- Prof. Yusheng Ji, Professor (supervisor 2024-2026), National Institute of Informatics, Japan, kei@nii.ac.jp, https://klab.nii.ac.jp/.
-- Prof. Antti Ylä-Jääski, Professor (supervisor 2019-2024), Aalto University, Finland, antti.yla-jaaski@aalto.fi.
+- Prof. Yusheng Ji, Professor (retired, supervisor 2024-2026), National Institute of Informatics, Japan, kei@nii.ac.jp, https://klab-nii.github.io/jp/index.html.
+- Prof. Antti Ylä-Jääski, Professor (retired, supervisor 2019-2024), Aalto University, Finland, antti.yla-jaaski@aalto.fi.
 - Prof. Yu Xiao, Associate Professor (supervisor 2019-2023), Aalto University, Finland, yu.xiao@aalto.fi, https://mobilecloud.aalto.fi/.
 - Prof. John C.S. Lui, Professor (collaborator), The Chinese University of Hong Kong, cslui@cse.cuhk.edu.hk, https://www.cse.cuhk.edu.hk/~cslui/.
 
