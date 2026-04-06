@@ -23,7 +23,8 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 📖 Education and Visiting
-- *2024.07 - current*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
+- *2026.04 - current*, Joint post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan & Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
+- *2024.07 - 2026.3*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.6*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.9 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
 - *2019.11 - 2023.11*, Doctor of Science, Department of Information and Communications Engineering, Aalto University, Espoo, Finland.
@@ -131,8 +132,10 @@ Finland. Establish data-driven capacity planning and resource management platfor
 - *2013 – 2017*, Merit Student, Wuhan University of Technology.
 
 # 🌟 References
-- Prof. Yusheng Ji, Professor (supervisor during post-doc), National Institute of Informatics, Japan, kei@nii.ac.jp, https://klab.nii.ac.jp/.
-- Prof. Antti Ylä-Jääski, Professor (supervisor during doc and post-doc), Aalto University, Finland, antti.yla-jaaski@aalto.fi.
-- Prof. Yu Xiao, Associate Professor (supervisor during doc), Aalto University, Finland, yu.xiao@aalto.fi, https://mobilecloud.aalto.fi/.
+- Prof. Kensuke Fukuda, Professor (supervisor 2026-current), National Institute of Informatics, Japan, kensuke@nii.ac.jp, http://www.flab.nii.ac.jp/.
+- Prof. Manabu Tsukada, Associate Professor (supervisor 2026-current), The University of Tokyo, mtsukada@g.ecc.u-tokyo.ac.jp, https://tlab.hongo.wide.ad.jp/.
+- Prof. Yusheng Ji, Professor (supervisor 2024-2026), National Institute of Informatics, Japan, kei@nii.ac.jp, https://klab.nii.ac.jp/.
+- Prof. Antti Ylä-Jääski, Professor (supervisor 2019-2024), Aalto University, Finland, antti.yla-jaaski@aalto.fi.
+- Prof. Yu Xiao, Associate Professor (supervisor 2019-2023), Aalto University, Finland, yu.xiao@aalto.fi, https://mobilecloud.aalto.fi/.
 - Prof. John C.S. Lui, Professor (collaborator), The Chinese University of Hong Kong, cslui@cse.cuhk.edu.hk, https://www.cse.cuhk.edu.hk/~cslui/.
-- Prof. Manabu Tsukada, Associate Professor (collaborator), The University of Tokyo, mtsukada@g.ecc.u-tokyo.ac.jp, https://tlab.hongo.wide.ad.jp/.
+
