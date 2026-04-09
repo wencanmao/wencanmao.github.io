@@ -70,7 +70,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao** (equally contributed), et al., [FM-EAC: Feature Model-Based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments](https://arxiv.org/abs/2512.15430), submitted to a conference.
 
 **Journals**
-- Q. Xu, **W.Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, **under minor revision**.
+- Q. Xu, **W. Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, **under minor revision**.
 - J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to Transactions on Sustainable Computing, 2026.
 - **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2025.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2025.
