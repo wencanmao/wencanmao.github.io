@@ -35,7 +35,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 📝 Publications 
 **Conferences**
-- UAV-Enabled Integrated Sensing, Semantic Communication, and Computation: Disaster-Oriented Edge Computing and Sensing, Yaxi Liu, **Wencan Mao**, Xulong Li, Yu Xiao, Wei Huangfu, Keping Long, **10th IEEE International Conference on Fog and Edge Computing (IEEE ICFEC 2026), Sydney, Australia, 2026.
+- UAV-Enabled Integrated Sensing, Semantic Communication, and Computation: Disaster-Oriented Edge Computing and Sensing, Yaxi Liu, **Wencan Mao**, Xulong Li, Yu Xiao, Wei Huangfu, Keping Long, **10th IEEE International Conference on Fog and Edge Computing (IEEE ICFEC 2026)**, Sydney, Australia, 2026.
 - A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0, Zehui Li, **Wencan Mao**, Xulong Li, Yaxi Liu, Wei Huangfu, Yusheng Ji, **The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan, 2026.
 - Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0, Quanxi Zhou, **Wencan Mao (equally contributed)**, Yu Xiao, Manabu Tsukada, Yusheng Ji, **The 45th IEEE International Conference on Computer Communications (INFOCOM 2026) workshop**, Tokyo, Japan, 2026.
 - [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://arxiv.org/abs/2512.18604), **Wencan Mao**, Quanxi Zhou (equally contributed), Tomás Couso Coddou, Manabu Tsukada, Liu Yunling, Yusheng Ji, **IEEE International Conference on Robotics & Automation (ICRA 2026)**, Vienna, Austria, 2026.
