@@ -23,7 +23,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 📖 Education and Research
-- *2026.04 - current*, Joint post-doctoral researcher / Project assistant professor, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan / Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
+- *2026.04 - current*, Joint post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan / Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
 - *2024.07 - 2026.03*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
 - *2023.12 - 2024.06*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.09 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
