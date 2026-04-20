@@ -94,12 +94,13 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
 
 **Journals**
-- *2026*, IEEE Journal on Selected Areas in Communications, reviewer.
-- *2026*, IEEE Transaction on Vehicular Technology, reviewer.
+- *2026*, IEEE Transactions on Communications (TCOM), reviewer.
+- *2026*, IEEE Journal on Selected Areas in Communications (JSAC), reviewer.
+- *2026*, IEEE Transactions on Vehicular Technology (TVT), reviewer.
 - *2025 - 2026*, Pervasive and Mobile Computing, reviewer.
-- *2024 - 2026*, IEEE Transactions on Cognitive Communications and Networking, reviewer.
+- *2024 - 2026*, IEEE Transactions on Cognitive Communications and Networking (TCCN), reviewer.
 - *2019 - 2023*, IEEE Access, reviewer.
-- *2019 - 2023*, IEEE Internet of Things Journal, reviewer.
+- *2019 - 2023*, IEEE Internet of Things Journal (IOTJ), reviewer.
 
 # 👩‍🏫 Teaching Experiences
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
