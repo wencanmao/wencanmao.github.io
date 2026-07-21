@@ -44,6 +44,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085), **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, 2022, pp. 186-187, doi: 10.1109/SMARTCOMP55677.2022.00047.
 
 **Journals**
+- ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, **Wencan Mao**, Quanxi Zhou, Yilei Liang, Yaxi Liu, Wei Huangfu, Manabu Tsukada, Jon Crowcroft, and Yusheng Ji, **IEEE Network Magazine**, 2026, accepted.
 - [Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/11397758), Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, Wei Huangfu, Keping Long, Yu Xiao, and Yusheng Ji, **IEEE Transactions on Mobile Computing**, doi: 10.1109/TMC.2026.3665671.
 - [Bistatic-Enhancement MIMO ISAC: Joint Beamforming Design in Cell-Free Communication and Bistatic Radar Systems](https://ieeexplore.ieee.org/document/11215603), Boxin He, **Wencan Mao**, Yaxi Liu, Wei Huangfu, Fangxin Wang, Haijun Zhang, **IEEE Transactions on Wireless Communications**, doi: 10.1109/TWC.2025.3621759.
 - [On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme](https://ieeexplore.ieee.org/document/11152368), Boxin He, **Wencan Mao**, Yaxi Liu, Fangxin Wang, Wei Huangfu, **IEEE Transactions on Communications**, doi: 10.1109/TCOMM.2025.3606656.
@@ -72,7 +73,6 @@ Her research interests include edge computing, reinforcement learning, smart and
 **Journals**
 - Q. Xu, **W. Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, 2026, **under minor revision**.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2026, **under major revision**.
-- **W. Mao**, et al., ComLLM: Towards A General Large Language Model for Semantic-Aware Network Optimization, submitted to IEEE Network Magazine, 2026, **under major revision**.
 - J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to Transactions on Sustainable Computing, 2026.
 - Q. Zhou, **W. Mao**, et al., Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2026.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Communications, 2026.
