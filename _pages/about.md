@@ -73,13 +73,11 @@ Her research interests include edge computing, reinforcement learning, smart and
 **Journals**
 - Q. Xu, **W. Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, 2026, **under minor revision**.
 - B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2026, **under major revision**.
-- J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to Transactions on Sustainable Computing, 2026.
+- J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to IEEE Transactions on Sustainable Computing, 2026, **under major revision**.
 - Q. Zhou, **W. Mao**, et al., Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2026.
-- B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Communications, 2026.
 - Q. Zhou, **W. Mao**, et al., Trajectory Planning and Task Scheduling for UAVs in Dynamic Environments Using Feature-Driven Multi-Agent Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2026.
-<!--- Y. Liu, Y. Li, **W. Mao**, et al., Integrated UAV Navigation, Sensing, Communication, and Computation System for Task-Oriented Low-Altitude Economy, submitted to IEEE Transactions on Cognitive Communications and Networking, 2026. -->
-<!--- Y. Ren, Q. Zhou, **W. Mao**, et al., CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images, submitted to Remote Sensing, 2026. -->
-<!--- A. Debner, **W. Mao**, et al., dtS2C: A Data-driven Framework for Simulating and Evaluating Digital Twin Edge Network of Smart and Sustainable Cities, submitted to IEEE Transactions on Sustainable Computing, 2025. -->
+- Q. Zhou, **W. Mao**, et al., Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware UAV-Enabled Spatio-Temporal Crowdsourcing, submitted to IEEE Transactions on Cognitive Communications and Networking, 2026.
+- B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Communications, 2026.
 - M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Communications, 2026.
 
 
@@ -89,12 +87,13 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2026*, IEEE Global Communications Conference (GLOBECOM 2026), TPC member.
 - *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
-- *2025-2026*, ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp 2025/2026), poster/demo program committee.
+- *2025-2026*, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2025/2026), poster/demo program committee.
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair & TPC member.
 - *2025*, IEEE Global Communications Conference (GLOBECOM 2025), reviewer.
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
 
 **Journals**
+- *2026*, IEEE Transactions on Wireless Communications (TWC), reviewer.
 - *2026*, IEEE Transactions on Communications (TCOM), reviewer.
 - *2026*, IEEE Journal on Selected Areas in Communications (JSAC), reviewer.
 - *2026*, IEEE Transactions on Vehicular Technology (TVT), reviewer.
@@ -119,7 +118,7 @@ Lund, Sweden & Aalto, Finland & DTU, Denmark. Attend Conference 2022 at the Norw
 - *2019.06 - 2019.09*, Research assistant, Department of Information and Communications Engineering, Aalto University,
 Finland. Establish data-driven capacity planning and resource management platforms for fog computing.
 - *2018.06 - 2018.08*, Process and Tool Development Specialist Trainee, KONE Corporation, Shanghai, China. Managing a large quantity of major project installation data & people flow data, communicating with field managers, project managers, and field engineers about the data, getting feedback, and adjusting the installation progress.
-- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of Lidar, GPS, and dual-camera to detect edge features and localize the vehicle in a high-precision map.
+- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of LiDAR, GPS, and dual-camera to detect edge features and localize the vehicle in a high-precision map.
 - *2015.12 - 2016.08*, International Team Project, Connected Mobility Solution, Wuhan University of Technology, China. Team Leader of Autopia, WUT. Envision the future transportation system composed of autonomous vehicles, with cutting-edge vehicular technologies and the Internet of Vehicles (IoV). Exhibited in the PACE 2016 Global Conference poster session at the University of Cincinnati, USA.
 
 
