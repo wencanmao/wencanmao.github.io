@@ -94,6 +94,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2025*, IEEE Conference on Vehicular Technology (VTC 2025 Spring & Fall), reviewer.
 
 **Journals**
+- *2026*, Nature Scientific Reports, reviewer.
 - *2026*, IEEE Transactions on Wireless Communications (TWC), reviewer.
 - *2026*, IEEE Transactions on Communications (TCOM), reviewer.
 - *2026*, IEEE Journal on Selected Areas in Communications (JSAC), reviewer.
