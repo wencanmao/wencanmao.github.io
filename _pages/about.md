@@ -23,9 +23,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 
 # 📖 Education and Research
-- *2026.04 - current*, Joint post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan / Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
-- *2024.07 - 2026.03*, Post-doctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
-- *2023.12 - 2024.06*, Post-doctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
+- *2026.04 - current*, Joint postdoctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan / Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
+- *2024.07 - 2026.03*, Postdoctoral researcher, Information Systems Architecture Science Research Division, National Institute of Informatics, Tokyo, Japan.
+- *2023.12 - 2024.06*, Postdoctoral researcher, Department of Computer Science, Aalto University, Espoo, Finland.
 - *2023.09 - 2023.10*, Visiting researcher, Department of Technology, Management, and Economics, Technical University of Denmark, Copenhagen, Denmark.
 - *2019.11 - 2023.11*, Doctor of Science, Department of Information and Communications Engineering, Aalto University, Espoo, Finland.
 - *2018.09 - 2018.11*, Exchange student, Department of Mechanical Engineering, Technical University of Munich, Munich, Germany.
@@ -78,7 +78,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - Q. Zhou, **W. Mao**, et al., Environment-Aware Multi-UAV Trajectory Planning for Connected Agricultural IoT Systems Using Feature-Driven Reinforcement Learning, submitted to IEEE Transactions on Vehicular Technology, 2026.
 - Q. Zhou, **W. Mao**, et al., Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware UAV-Enabled Spatio-Temporal Crowdsourcing, submitted to IEEE Transactions on Cognitive Communications and Networking, 2026.
 - B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Communications, 2026.
-- M. Gu, **W. Mao**, et al., Beamforming and Phase-Shift Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Communications, 2026.
+- M. Gu, **W. Mao**, et al., Beamforming and Reflection-Coefficient Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Vehicular Technology, 2026.
 - B. Cho, **W. Mao**, et al., Latency-Aware Pinching-Antenna Sensing of a Moving Target: Prediction and Its Geometric Limit, submitted to IEEE Transactions on Communications, 2026.
 
 
@@ -86,7 +86,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 **Conferences**
 - *2026*, IEEE International Conference on Computer Communications (INFOCOM 2026) Workshop, TPC member.
 - *2026*, IEEE Global Communications Conference (GLOBECOM 2026), TPC member.
-- *2026*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
+- *2026-2027*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
 - *2025*, IEEE/CIC International Conference on Communications in China (ICCC 2025), TPC member.
 - *2025-2026*, ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2025/2026), poster/demo program committee.
 - *2025*, 18th IEEE/ACM International Conference on Utility and Cloud Computing / 12th IEEE/ACM International Conference on Big Data Computing, Applications, and Technologies (UCC/BDCAT 2025), poster chair & TPC member.
@@ -105,22 +105,23 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2019 - 2023*, IEEE Internet of Things Journal (IOTJ), reviewer.
 
 # 👩‍🏫 Teaching Experiences
-- *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master students for the course ”Smart Mobility: Systems, Services, and Applications”.
-- *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, responsible for slide preparation, personnel management, activity organization for 100+ students, and tutoring 7 Master students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
+- *2026.08 - 2026.09*, Lecturer, Cooperative Interactive Vehicles (CIV) Summer School 2026 (https://civ-summerschool.org/), Miyazaki City, Japan.
+- *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master's students for the course ”Smart Mobility: Systems, Services, and Applications”.
+- *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, responsible for slide preparation, personnel management, activity organization for 100+ students, and tutoring 7 Master's students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
 - *2019.09 - 2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
 
 # 💻 Projects and Activities
 - *2025.10 - current*, Japan Society for the Promotion of Science (JSPS) Project, NII, Japan. Research on self-regulatory control and security assurance of large-scale decentralized systems.
-- *2025.03 - current*, JST Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language model (LLM), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
+- *2025.03 - current*, JST Project, CRONOS, Graduate School of Information Science and Technology, The University of Tokyo, Japan, LLM-Comm: study vehicle-to-everything (V2X) communication with large language models (LLMs), eHMI: study human-machine interaction for autonomous vehicles (AV), Autonomous driving field study.
 - *2024.07 - current*, Japan Science and Technology (JST) Project, Aspire, Information Systems Architecture Science Research Division, National Institute of Informatics (NII), Japan & The University of Tokyo, Japan. Artificial Intelligence (AI) for resource allocation, and resource allocation for AI.
 - *2023.12 - 2024.06*, Industrial Cooperation Project, Ensure, Department of Computer Science, Aalto University, Finland & Nokia Corporation, Finland, Developing a simulation and evaluation platform for energy-efficient 6G Tele-cloud.
 - *2022.01 - 2023.11*, Volunteer and facilitator, N4WOMEN, Aalto University, Finland. Facilitating meetings for the group that helps women in STEM majors at Aalto University.
 - *2022.11 - 2023.12*, Nordic Mobility Project, Industrial Internet of Things (IIOT) Hub, NTNU, Norway & KTH, Sweden &
-Lund, Sweden & Aalto, Finland & DTU, Denmark. Attend Conference 2022 at the Norwegian University of Science and Technology (NTNU), Norway. Attend Student Meeting 2023 at Aalto University & Telia workshop & Maillefer Extrusion Oy visit.
+Lund, Sweden & Aalto, Finland & DTU, Denmark. Attended Conference 2022 at the Norwegian University of Science and Technology (NTNU), Norway. Attend Student Meeting 2023 at Aalto University & Telia workshop & Maillefer Extrusion Oy visit.
 - *2019.06 - 2019.09*, Research assistant, Department of Information and Communications Engineering, Aalto University,
-Finland. Establish data-driven capacity planning and resource management platforms for fog computing.
+Finland. Established data-driven capacity planning and resource management platforms for fog computing.
 - *2018.06 - 2018.08*, Process and Tool Development Specialist Trainee, KONE Corporation, Shanghai, China. Managing a large quantity of major project installation data & people flow data, communicating with field managers, project managers, and field engineers about the data, getting feedback, and adjusting the installation progress.
-- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Establish a sensor fusion platform composed of LiDAR, GPS, and dual-camera to detect edge features and localize the vehicle in a high-precision map.
+- *2017.11 - 2018.05*, International Team Project, GLOBALDRIVE, Aalto University, Finland & The Technical University of Munich (TUM), Germany, Team Member of Geofusion, Aalto & TUM. Established a sensor fusion platform composed of LiDAR, GPS, and dual cameras to detect edge features and localize the vehicle in a high-precision map.
 - *2015.12 - 2016.08*, International Team Project, Connected Mobility Solution, Wuhan University of Technology, China. Team Leader of Autopia, WUT. Envision the future transportation system composed of autonomous vehicles, with cutting-edge vehicular technologies and the Internet of Vehicles (IoV). Exhibited in the PACE 2016 Global Conference poster session at the University of Cincinnati, USA.
 
 
