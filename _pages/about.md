@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wencan Mao (**wencan_mao@nii.ac.jp**) is a post-doctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her D.Sc. degree in the Department of Information and Communications Engineering from Aalto University, Espoo, Finland, in 2023, her M.S. degree in Mechanical Engineering from Aalto University, Espoo, Finland, in 2019, and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017. 
+Wencan Mao (**wencan_mao@nii.ac.jp**) is a postdoctoral researcher at the National Institute of Informatics (NII), Tokyo, Japan. She received her D.Sc. degree in the Department of Information and Communications Engineering from Aalto University, Espoo, Finland, in 2023; her M.S. degree in Mechanical Engineering from Aalto University, Espoo, Finland, in 2019; and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017. 
 She has been an active researcher, publishing high-quality scientific papers in international journals and conference proceedings. She is also a facilitator of international collaborations between Asian and Nordic universities.
 Her research interests include edge computing, reinforcement learning, smart and sustainable cities, Intelligent Transportation Systems, and the Internet of Things.
 
@@ -109,6 +109,12 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2022.09 - 2023.12*, Teaching assistant, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland, responsible for slide preparation, assignment design, giving lectures, and mentoring 3 Master's students for the course ”Smart Mobility: Systems, Services, and Applications”.
 - *2020.09 - 2023.09*, Teaching assistant,  Aalto University, DEPARTMENT OF COMPUTER SCIENCE, Aalto University, Finland, responsible for slide preparation, personnel management, activity organization for 100+ students, and tutoring 7 Master's students for the course ”Seminar in Computer Science: Internet, Data, and Things”.
 - *2019.09 - 2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
+
+# 📝 Research Funding and Grants
+- FY 2027, DAAD-JSPS: Bilateral Joint Research Project, **co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan & the University of Göttingen, Germany, submitted.
+- FY 2027, EIG CONCERT-Japan: Joint Call on AI-Powered Robotics for Real-World Applications, **Co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan & Ruhr-University Bochum (RUB), Germany & Industrial Research Institute for Automation and Measurements (PIAP), Poland & Spanish National Research Council (CSIC), Spain, submitted.
+- FY 2027, JSPS Grant-in-Aid for Scientific Research (B), **Co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan, submitted.
+- 01/05/2023-31/07/2023, Aalto University Technology Support Foundation, **single applicant**, accepted.
 
 # 💻 Projects and Activities
 - *2025.10 - current*, Japan Society for the Promotion of Science (JSPS) Project, NII, Japan. Research on self-regulatory control and security assurance of large-scale decentralized systems.
