@@ -84,6 +84,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 🔍 Review Activities
 **Conferences**
+- *2027*, IEEE International Conference on Computer Communications and Networks (ICCCN 2027), TPC member.
 - *2026*, IEEE International Conference on Computer Communications (INFOCOM 2026) Workshop, TPC member.
 - *2026*, IEEE Global Communications Conference (GLOBECOM 2026), TPC member.
 - *2026-2027*, IEEE International Conference on Communications: Wireless Communications (ICC 2026), TPC member.
@@ -111,7 +112,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 - *2019.09 - 2019.12*, Pedagogical training, DEPARTMENT OF INFORMATION AND COMMUNICATION ENGINEERING, Aalto University, Finland.
 
 # 📝 Research Funding and Grants
-- FY 2027, DAAD-JSPS: Bilateral Joint Research Project, **co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan & the University of Göttingen, Germany, submitted.
+- FY 2027, DAAD-JSPS: Bilateral Joint Research Project, **Co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan & the University of Göttingen, Germany, submitted.
 - FY 2027, EIG CONCERT-Japan: Joint Call on AI-Powered Robotics for Real-World Applications, **Co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan & Ruhr-University Bochum (RUB), Germany & Industrial Research Institute for Automation and Measurements (PIAP), Poland & Spanish National Research Council (CSIC), Spain, submitted.
 - FY 2027, JSPS Grant-in-Aid for Scientific Research (B), **Co-PI**, applied with the National Institute of Informatics (NII), Japan & the University of Tokyo, Japan, submitted.
 - 01/05/2023-31/07/2023, Aalto University Technology Support Foundation, **single applicant**, accepted.
