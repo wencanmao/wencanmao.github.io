@@ -35,6 +35,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 # 📝 Publications 
 **Conferences**
+- [CARE: Camera-Residual Reserves for First Sightings in Adaptive LiDAR Sensing](https://arxiv.org/abs/2608.24282), Jiachen Gong, Yun Li, Ehsan Javanmardi, **Wencan Mao**, Manabu Tsukada, **18th Asian Conference on Computer Vision (ACCV 2026)**, Osaka, Japan, 2026.
 - [UAV-Enabled Integrated Sensing, Semantic Communication, and Computation: Disaster-Oriented Edge Computing and Sensing](https://ieeexplore.ieee.org/abstract/document/11619137), Yaxi Liu, **Wencan Mao**, Xulong Li, Yu Xiao, Wei Huangfu, Keping Long, **10th IEEE International Conference on Fog and Edge Computing (IEEE ICFEC 2026)**, Sydney, Australia, 2026.
 - [A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0](https://ieeexplore.ieee.org/abstract/document/11571452), Zehui Li, **Wencan Mao**, Xulong Li, Yaxi Liu, Wei Huangfu, Yusheng Ji, **IEEE INFOCOM 2026 - IEEE Conference on Computer Communications**, Tokyo, Japan, 2026, pp. 1-6, doi: 10.1109/INFOCOM59046.2026.11571452.
 - [Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0](https://ieeexplore.ieee.org/abstract/document/11571634), Quanxi Zhou, **Wencan Mao (equally contributed)**, Yu Xiao, Manabu Tsukada, Yusheng Ji, **IEEE INFOCOM 2026 - IEEE Conference on Computer Communications**, Tokyo, Japan, 2026, pp. 1-6, doi: 10.1109/INFOCOM59046.2026.11571634 (**Best Paper Runner-up Award**).
