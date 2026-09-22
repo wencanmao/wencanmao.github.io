@@ -98,6 +98,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 **Journals**
 - *2026*, IEEE Network, reviewer.
 - *2026*, Nature Scientific Reports, reviewer.
+- *2026*, IEEE Transactions on Mobile Communications (TMC), reviewer.
 - *2026*, IEEE Transactions on Wireless Communications (TWC), reviewer.
 - *2026*, IEEE Transactions on Communications (TCOM), reviewer.
 - *2026*, IEEE Journal on Selected Areas in Communications (JSAC), reviewer.
