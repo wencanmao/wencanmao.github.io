@@ -73,7 +73,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 
 **Journals**
 - Q. Xu, **W. Mao**, et al., Data-Driven Characterization and Insights of Network Metrics from a Systematic LLM-Agent Literature Mining, submitted to the IEEE Transactions on Networking, 2026, **under minor revision**.
-- B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2026, **under major revision**.
+- B. He, **W. Mao**, et al., Service-Aware Joint Task Scheduling and Resource Allocation in Air-Ground Collaborative Multi-Tenant Network, submitted to IEEE Transactions on Mobile Computing, 2026, **under minor revision**.
 - Q. Zhou, **W. Mao**, et al., Trajectory Planning and Task Scheduling for UAVs in Dynamic Environments Using Feature-Driven Multi-Agent Reinforcement Learning, submitted to IEEE Transactions on Mobile Computing, 2026, **under major revision**.
 - J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to IEEE Transactions on Sustainable Computing, 2026, **under major revision**.
 - Q. Zhou, **W. Mao**, et al., EI-PANDA: Elite Imitation Point Aggregation Network with Dual Architecture for Trajectory Planning for UAV-Assisted Agricultural Systems, submitted to IEEE Transactions on Communications, 2026.
