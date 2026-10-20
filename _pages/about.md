@@ -81,8 +81,9 @@ Her research interests include edge computing, reinforcement learning, smart and
 - J. Wang, Q. Zhou, **W. Mao**, et al., Energy Harvesting UAV-Enabled Mobile Edge Computing with Sustainable Wireless Power Transfer Scheme, submitted to IEEE Transactions on Sustainable Computing, 2026, **under major revision**.
 - Q. Zhou, **W. Mao**, et al., EI-PANDA: Elite Imitation Point Aggregation Network with Dual Architecture for Trajectory Planning for UAV-Assisted Agricultural Systems, submitted to IEEE Transactions on Communications, 2026.
 - Q. Zhou, **W. Mao**, et al., Decoupling Where-to-Fly from When-to-Upload: Quality- and AoI-Aware UAV-Enabled Spatio-Temporal Crowdsourcing, submitted to IEEE Transactions on Cognitive Communications and Networking, 2026.
-- B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to IEEE Transactions on Communications, 2026.
-- M. Gu, **W. Mao**, et al., Beamforming and Reflection-Coefficient Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Vehicular Technology, 2026.
+- B. He, **W. Mao**, et al., Resource-Efficient Cell-Free MIMO ISAC: Joint Transmit Beamforming Design and Radar Receiving Base Station Selection, submitted to Science China
+Information Sciences, 2026. 
+<!--- M. Gu, **W. Mao**, et al., Beamforming and Reflection-Coefficient Matrix Design for RIS-Assisted Secure Integrated Sensing and Communication in Low-Altitude Activities, submitted to IEEE Transactions on Vehicular Technology, 2026. --->
 - B. Cho, **W. Mao**, et al., Latency-Aware Pinching-Antenna Sensing of a Moving Target: Prediction and Its Geometric Limit, submitted to IEEE Transactions on Communications, 2026.
 
 
