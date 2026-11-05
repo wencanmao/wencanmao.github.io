@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wencan Mao (毛文灿)"
+  name             : "Wencan Mao"
   avatar           : "images/avatar.jpg"
   bio              : "National Institute of Informatics & The University of Tokyo"
   location         : "Tokyo, Japan"
