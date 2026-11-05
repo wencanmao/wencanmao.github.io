@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wencan Mao (毛文灿)"
+title                    : "Wencan Mao    (毛文灿)"
 description              : "Joint postdoctoral researcher. Working on edge computing, reinforcement learning, robotics, and intelligent transportation systems."
 repository               : "wencanmao/wencanmao.github.io"
 google_scholar_stats_use_cdn : true
