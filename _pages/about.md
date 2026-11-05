@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+description: "Wencan Mao, joint postdoctoral researcher at NII and The University of Tokyo. Edge computing, reinforcement learning, robotics, and intelligent transportation systems."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,6 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Wencan Mao (**wencan_mao@nii.ac.jp**) is a joint postdoctoral researcher at the National Institute of Informatics (NII) and The University of Tokyo, Tokyo, Japan. She received her D.Sc. degree from the Department of Information and Communications Engineering, Aalto University, Espoo, Finland, in 2023; her M.S. degree in Mechanical Engineering from Aalto University in 2019; and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017.
+
 She has published in venues such as IEEE ICRA, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Vehicular Technology, and received the Best Paper Runner-up Award at IEEE INFOCOM 2026 Workshop. She also facilitates international collaborations between Asian and European universities.
 Her research interests include edge computing, reinforcement learning, robotics, 6G, smart and sustainable cities, intelligent transportation systems, and the Internet of Things.
 
