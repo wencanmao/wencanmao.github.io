@@ -1,0 +1,382 @@
+/* ==========================================================================
+   Elegant academic theme layer
+   Loaded last from assets/css/main.scss, so it overrides the base theme.
+   To change the accent color, edit $el-accent below.
+   ========================================================================== */
+
+$el-accent        : #1d4e89;
+$el-accent-dark   : #143a68;
+$el-accent-soft   : #edf2f9;
+$el-ink           : #1f2328;
+$el-text          : #3a4047;
+$el-muted         : #6b7280;
+$el-rule          : #e5e8ec;
+$el-surface       : #f8f9fb;
+$el-gold-ink      : #7a5300;
+$el-gold-bg       : #fdf6e3;
+$el-gold-rule     : #efdcaa;
+
+$el-sans  : "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans", "Noto Sans CJK SC", sans-serif;
+$el-serif : "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", "Songti SC", serif;
+
+/* ---------- Base ---------- */
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: $el-sans;
+  color: $el-text;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+::selection { color: #fff; background: $el-accent; }
+
+a { color: $el-accent; }
+a:hover { color: $el-accent-dark; }
+
+/* ---------- Top navigation ---------- */
+
+.masthead {
+  background-color: #fff;
+  border-bottom: 1px solid $el-rule;
+  box-shadow: 0 1px 8px rgba(16, 24, 40, 0.04);
+
+  &__inner-wrap { font-family: $el-sans; }
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: $el-muted;
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+
+    &:hover { color: $el-accent; }
+  }
+
+  .visible-links {
+    li:first-child a {
+      color: $el-ink;
+      font-family: $el-serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+    }
+
+    a:before {
+      height: 2px;
+      background: $el-accent;
+    }
+  }
+
+  .hidden-links a { color: $el-text; }
+
+  button { background-color: $el-accent; border-radius: 4px; }
+}
+
+/* ---------- Sidebar profile ---------- */
+
+.author__avatar img {
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: 50% 18%;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  box-shadow: 0 0 0 1px $el-rule, 0 6px 18px rgba(16, 24, 40, 0.10);
+}
+
+.sidebar .author__name {
+  font-family: $el-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: $el-ink;
+  word-break: keep-all;   /* keep 毛文灿 together when the name wraps */
+}
+
+.author__bio {
+  color: $el-accent;
+  font-size: 0.88rem;
+  font-weight: 500;
+  line-height: 1.45;
+}
+
+.author__urls {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: $el-muted;
+
+  li { margin-bottom: 0.35em; }
+
+  a {
+    color: $el-text;
+    &:hover { color: $el-accent; text-decoration: none; }
+  }
+
+  .fa, .fas, .fab, .ai { color: $el-accent; }
+}
+
+/* Icon-only links shown on small screens */
+.author__urls_sm a {
+  color: $el-accent;
+  &:hover { color: $el-accent-dark; }
+}
+
+/* ---------- Main content ---------- */
+
+.page__content {
+  color: $el-text;
+  font-size: 0.95rem;
+  line-height: 1.7;
+
+  p, li { line-height: 1.7; }
+
+  strong { color: $el-ink; font-weight: 600; }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover { border-bottom-color: currentColor; }
+  }
+
+  /* Section headings */
+  h1 {
+    font-family: $el-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: $el-ink;
+    letter-spacing: -0.005em;
+    margin-top: 2.2em;
+    margin-bottom: 0.9em;
+    padding-bottom: 0;
+    border-bottom: 0;
+
+    &:after {
+      content: "";
+      display: block;
+      width: 40px;
+      height: 3px;
+      margin-top: 0.4em;
+      border-radius: 2px;
+      background: $el-accent;
+    }
+  }
+
+  /* Sub-headings: Conferences / Journals / Dissertations */
+  h2 {
+    font-family: $el-sans;
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $el-muted;
+    margin: 1.8em 0 0.8em;
+    padding: 0;
+    border: 0;
+  }
+
+  /* Plain lists (e.g. References) */
+  ul:not(.timeline):not(.pub-list) > li::marker { color: $el-accent; }
+
+  .note {
+    font-size: 0.85rem;
+    color: $el-muted;
+    margin-bottom: 0.5em;
+  }
+}
+
+/* ---------- Highlights row under the bio ---------- */
+
+.highlights {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  margin: 1.6em 0 0.4em;
+}
+
+.page__content .hl,
+.hl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0.85rem 1rem;
+  border: 1px solid $el-rule;
+  border-radius: 10px;
+  background: $el-surface;
+  color: $el-text;
+  line-height: 1.3;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+
+  &[hidden] { display: none; }
+}
+
+a.hl:hover {
+  border-color: $el-accent;
+  border-bottom-color: $el-accent;
+  transform: translateY(-1px);
+}
+
+.hl-num {
+  font-family: $el-serif;
+  font-size: 1.65rem;
+  font-weight: 700;
+  color: $el-accent;
+  line-height: 1.1;
+}
+
+.hl-label {
+  margin-top: 0.3em;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: $el-muted;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.hl-award {
+  background: $el-gold-bg;
+  border-color: $el-gold-rule;
+
+  .hl-num { font-size: 1.35rem; }
+  .hl-label { color: $el-gold-ink; text-transform: none; letter-spacing: 0; font-size: 0.8rem; font-weight: 600; }
+}
+
+/* ---------- Dated lists (education, service, teaching, projects, ...) ---------- */
+
+.page__content ul.timeline {
+  list-style: none;
+  margin: 0 0 1em;
+  padding: 0;
+
+  > li {
+    position: relative;
+    margin: 0;
+    padding: 0.45em 0 0.45em 9.25rem;
+    border-bottom: 1px solid $el-rule;
+
+    &:last-child { border-bottom: 0; }
+
+    > em:first-child {
+      position: absolute;
+      left: 0;
+      top: 0.62em;
+      width: 8.5rem;
+      font-style: normal;
+      font-size: 0.82rem;
+      font-weight: 600;
+      line-height: 1.6;
+      color: $el-accent;
+      font-variant-numeric: tabular-nums;
+      white-space: nowrap;
+    }
+  }
+
+  @media (max-width: 600px) {
+    > li {
+      padding-left: 0;
+
+      > em:first-child {
+        position: static;
+        display: block;
+        width: auto;
+      }
+    }
+  }
+}
+
+/* ---------- Publication lists ---------- */
+
+.page__content ul.pub-list {
+  list-style: none;
+  margin: 0 0 1em;
+  padding: 0;
+
+  > li {
+    position: relative;
+    margin: 0;
+    padding: 0.7em 0 0.7em 7.25rem;
+    border-bottom: 1px solid $el-rule;
+    font-size: 0.9rem;
+    line-height: 1.6;
+
+    &:last-child { border-bottom: 0; }
+  }
+
+  .venue {
+    position: absolute;
+    left: 0;
+    top: 0.95em;
+    max-width: 6.5rem;
+    padding: 0.1em 0.55em;
+    border-radius: 4px;
+    background: $el-accent-soft;
+    color: $el-accent;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .venue + a,
+  .pub-title {
+    display: block;
+    margin-bottom: 0.15em;
+    font-size: 0.98rem;
+    font-weight: 600;
+    line-height: 1.45;
+    color: $el-ink;
+  }
+
+  .venue + a:hover { color: $el-accent; }
+
+  @media (max-width: 600px) {
+    > li { padding-left: 0; }
+
+    .venue {
+      position: static;
+      display: inline-block;
+      margin-bottom: 0.35em;
+    }
+  }
+
+  /* Submitted papers: plainer, no venue column */
+  &.compact > li { padding-left: 0; }
+}
+
+.award {
+  display: inline-block;
+  margin-left: 0.25em;
+  padding: 0.05em 0.6em;
+  border: 1px solid $el-gold-rule;
+  border-radius: 999px;
+  background: $el-gold-bg;
+  color: $el-gold-ink;
+  font-size: 0.78rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.status {
+  display: inline-block;
+  padding: 0.02em 0.55em;
+  border-radius: 999px;
+  background: $el-accent-soft;
+  color: $el-accent;
+  font-size: 0.75rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
