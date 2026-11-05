@@ -18,21 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Wencan Mao (**wencan_mao@nii.ac.jp**) is a joint postdoctoral researcher at the National Institute of Informatics (NII) and The University of Tokyo, Tokyo, Japan. She received her D.Sc. degree from the Department of Information and Communications Engineering, Aalto University, Espoo, Finland, in 2023; her M.S. degree in Mechanical Engineering from Aalto University in 2019; and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017.
-She has published in venues such as IEEE ICRA, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, and IEEE Transactions on Vehicular Technology, and received the Best Paper Runner-up Award at IEEE INFOCOM 2026. She also facilitates international collaborations between Asian and Nordic universities.
-Her research interests include edge computing, reinforcement learning, smart and sustainable cities, intelligent transportation systems, and the Internet of Things.
+She has published in venues such as IEEE ICRA, IEEE Transactions on Mobile Computing, IEEE Transactions on Communications, IEEE Transactions on Wireless Communications, and IEEE Transactions on Vehicular Technology, and received the Best Paper Runner-up Award at IEEE INFOCOM 2026 Workshop. She also facilitates international collaborations between Asian and European universities.
+Her research interests include edge computing, reinforcement learning, robotics, 6G, smart and sustainable cities, intelligent transportation systems, and the Internet of Things.
 
 <a href='{{ site.author.googlescholar }}'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-
-# 🔥 News
-- *2026.11*: Paper on feature-driven multi-agent RL for UAV trajectory planning and task scheduling accepted to **IEEE Transactions on Mobile Computing**.
-- *2026.11*: Paper on service-aware joint task scheduling and resource allocation accepted to **IEEE Transactions on Mobile Computing**.
-- *2026.10*: Paper on camera-residual reserves for adaptive LiDAR sensing (CARE) accepted to **ACCV 2026**.
-- *2026.10*: Paper on multi-horizon post-decision state SAC (MPDS-SAC) accepted to **AINTEC 2026**.
-- *2026.08*: Lectured at the [Cooperative Interactive Vehicles (CIV) Summer School 2026](https://civ-summerschool.org/) in Miyazaki, Japan.
-- *2026.06*: Our paper on UAV-based smart farming with imitation-based triple deep Q-learning was published at **IEEE ICRA 2026**, Vienna, Austria.
-- *2026.05*: 🏆 Our paper on deep reinforcement learning for AGV trajectory planning received the **Best Paper Runner-up Award** at **IEEE INFOCOM 2026 workshop**, Tokyo, Japan.
-- *2026.04*: Started a joint postdoctoral position at NII and The University of Tokyo.
 
 
 # 📖 Education and Research
@@ -172,7 +161,7 @@ Her research interests include edge computing, reinforcement learning, smart and
 # 🌟 References
 - [Prof. Kensuke Fukuda](http://www.flab.nii.ac.jp/), Professor, National Institute of Informatics, Japan (supervisor, 2026–present).
 - [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/), Associate Professor, The University of Tokyo, Japan (supervisor, 2026–present).
-- [Prof. Yusheng Ji](https://klab-nii.github.io/jp/index.html), Professor (retired), National Institute of Informatics, Japan (supervisor, 2024–2026).
-- Prof. Antti Ylä-Jääski, Professor (retired), Aalto University, Finland (supervisor, 2019–2024).
+- [Prof. Yusheng Ji](https://klab-nii.github.io/jp/index.html), Professor Emeritus, National Institute of Informatics, Japan (supervisor, 2024–2026).
+- [Prof. Antti Ylä-Jääski](https://users.aalto.fi/~anttiyj/), Professor Emeritus, Aalto University, Finland (supervisor, 2019–2024).
 - [Prof. Yu Xiao](https://mobilecloud.aalto.fi/), Associate Professor, Aalto University, Finland (supervisor, 2019–2023).
 - [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/), Professor, The Chinese University of Hong Kong (collaborator).
