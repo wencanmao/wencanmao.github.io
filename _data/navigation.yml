@@ -1,17 +1,27 @@
-# main links links
+# main links
+# Each url must match a section heading's auto-generated id on the About page:
+# the emoji is dropped, so "# 📖 Education and Research" becomes "#-education-and-research".
 main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Education and Visiting"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education-and-research"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Projects and Experiences"
-    url: "/#-projects"
+  - title: "Review Activities"
+    url: "/#-review-activities"
+
+  - title: "Teaching"
+    url: "/#-teaching-experiences"
+
+  - title: "Funding"
+    url: "/#-research-funding-and-grants"
+
+  - title: "Projects"
+    url: "/#-projects-and-activities"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
