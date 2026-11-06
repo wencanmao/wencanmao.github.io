@@ -25,7 +25,7 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 <div class="highlights">
   <div class="hl"><span class="hl-num" data-count="#journal-list">18</span><span class="hl-label">Journal papers</span></div>
-  <div class="hl"><span class="hl-num" data-count="#conference-list">11</span><span class="hl-label">Conference papers</span></div>
+  <div class="hl"><span class="hl-num" data-count="#conference-list">11</span><span class="hl-label">Conference papers<br><span data-split="#conference-list">8 full · 3 short</span></span></div>
   <a class="hl hl-cit" href="{{ site.author.googlescholar }}" hidden><span class="hl-num" id="hl-cit"></span><span class="hl-label">Citations</span></a>
   <div class="hl hl-award"><span class="hl-num">&#127942;</span><span class="hl-label">Best Paper Runner-up<br>IEEE INFOCOM 2026 Workshop</span></div>
 </div>
@@ -35,6 +35,13 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
     document.querySelectorAll('[data-count]').forEach(function (el) {
       var list = document.querySelector(el.getAttribute('data-count'));
       if (list) { el.textContent = list.querySelectorAll(':scope > li').length; }
+    });
+    document.querySelectorAll('[data-split]').forEach(function (el) {
+      var list = document.querySelector(el.getAttribute('data-split'));
+      if (!list) { return; }
+      var total = list.querySelectorAll(':scope > li').length;
+      var short = list.querySelectorAll(':scope > li [data-short]').length;
+      el.textContent = (total - short) + ' full · ' + short + ' short';
     });
     fetch('{{ url }}')
       .then(function (r) { return r.ok ? r.json() : null; })
@@ -68,7 +75,7 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 ## Conferences
 - <span class="venue">AINTEC'26</span> <span class="pub-title">MPDS-SAC: Multi-horizon Post-Decision State Soft Actor-Critic for Air-Ground Collaborative Sensing</span> Quanxi Zhou, **Wencan Mao**, Yunfei Chen, Junru Li, Jiachen Gong, Kensuke Fukuda, Manabu Tsukada, **21st Asian Internet Engineering Conference (AINTEC 2026)**, Taipei, Taiwan, 2026. <span class="status">accepted</span>
-- <span class="venue">UbiComp'26</span> <span class="pub-title">NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning</span> Jiachen Gong, **Wencan Mao**, Ehsan Javanmardi, Yun Li, Quanxi Zhou, Manabu Tsukada, **Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26)**, Poster, 2026. <span class="status">accepted</span>
+- <span class="venue">UbiComp'26</span> <span class="pub-title">NL2TL-Tree: Natural Language to Nested Temporal-Logic Trees for Robustness-Guided Flow-Matching Planning</span> Jiachen Gong, **Wencan Mao**, Ehsan Javanmardi, Yun Li, Quanxi Zhou, Manabu Tsukada, **Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing and the 2026 ACM International Symposium on Wearable Computers (UbiComp/ISWC '26)**, Poster, 2026. <span class="status">accepted</span> <span class="status" data-short="1">short paper</span>
 - <span class="venue">FINE'26</span> [Priority-Aware Hybrid Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing](https://ieeexplore.ieee.org/abstract/document/11710909) Yunfei Chen, Quanxi Zhou, **Wencan Mao**, Guanzhi Lyu, Ye Tao, Kensuke Fukuda, Manabu Tsukada, **2026 IEEE International Conference on Future and Intelligent Networking (FINE)**, Osaka, Japan, Aug. 2026, pp. 246–253, doi: 10.1109/FINE71157.2026.00048.
 - <span class="venue">ACCV'26</span> [CARE: Camera-Residual Reserves for First Sightings in Adaptive LiDAR Sensing](https://arxiv.org/abs/2608.24282) Jiachen Gong, Yun Li, Ehsan Javanmardi, **Wencan Mao**, Manabu Tsukada, **18th Asian Conference on Computer Vision (ACCV 2026)**, Osaka, Japan, 2026. <span class="status">accepted</span>
 - <span class="venue">ICFEC'26</span> [UAV-Enabled Integrated Sensing, Semantic Communication, and Computation: Disaster-Oriented Edge Computing and Sensing](https://ieeexplore.ieee.org/abstract/document/11619137) Yaxi Liu, **Wencan Mao**, Xulong Li, Meng Gu, Yu Xiao, Wei Huangfu, Keping Long, **10th IEEE International Conference on Fog and Edge Computing (IEEE ICFEC 2026)**, Sydney, Australia, May 2026, pp. 65–72, doi: 10.1109/ICFEC69006.2026.00016.
@@ -76,8 +83,8 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 - <span class="venue">INFOCOM'26</span> [Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0](https://ieeexplore.ieee.org/abstract/document/11571634) Quanxi Zhou<sup>&#42;</sup>, **Wencan Mao**<sup>&#42;</sup>, Yu Xiao, Manabu Tsukada, Yusheng Ji, **IEEE INFOCOM 2026 – IEEE Conference on Computer Communications Workshops (DOICT-IndSoc)**, Tokyo, Japan, May 2026, pp. 1–6, doi: 10.1109/INFOCOM59046.2026.11571634. <span class="award">&#127942; Best Paper Runner-up Award</span>
 - <span class="venue"><i class="fas fa-robot" aria-hidden="true"></i> ICRA'26</span> [Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning](https://ieeexplore.ieee.org/abstract/document/11696839) **Wencan Mao**<sup>&#42;</sup>, Quanxi Zhou<sup>&#42;</sup>, Tomás Couso Coddou, Manabu Tsukada, Yunling Liu, Yusheng Ji, **2026 IEEE International Conference on Robotics and Automation (ICRA)**, Vienna, Austria, Jun. 2026, pp. 20837–20844, doi: 10.1109/ICRA57385.2026.11696839.
 - <span class="venue">MobiCom'24</span> [UAV-Assisted Integrated Sensing and Communication for Emergency Rescue Activities Based on Transfer Deep Reinforcement Learning](https://dl.acm.org/doi/10.1145/3636534.3698220) Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yusheng Ji, Yu Xiao, **Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '24), ISACom Workshop**, Washington, D.C., USA, Nov. 2024, pp. 2142–2147, doi: 10.1145/3636534.3698220.
-- <span class="venue">hEART'24</span> [Understanding and predicting human behavior in interactions with autonomous systems in urban environments: a systematic review, challenges, and opportunities](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_3882.pdf) Danya Li, **Wencan Mao**, Francisco Pereira, Yu Xiao, Xiang Su, Rico Krueger, **hEART 2024: 12th Symposium of the European Association for Research in Transportation**, Helsinki, Finland, 2024.
-- <span class="venue">SMARTCOMP'22</span> [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085) **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, Jun. 2022, pp. 186–187, doi: 10.1109/SMARTCOMP55677.2022.00047.
+- <span class="venue">hEART'24</span> [Understanding and predicting human behavior in interactions with autonomous systems in urban environments: a systematic review, challenges, and opportunities](https://transp-or.epfl.ch/heart/2024/abstracts/hEART_2024_paper_3882.pdf) Danya Li, **Wencan Mao**, Francisco Pereira, Yu Xiao, Xiang Su, Rico Krueger, **hEART 2024: 12th Symposium of the European Association for Research in Transportation**, Helsinki, Finland, 2024. <span class="status" data-short="1">short paper</span>
+- <span class="venue">SMARTCOMP'22</span> [PhD Forum Abstract: Capacity Planning for Vehicular Fog Computing](https://ieeexplore.ieee.org/document/9821085) **Wencan Mao**, **2022 IEEE International Conference on Smart Computing (SMARTCOMP)**, Helsinki, Finland, Jun. 2022, pp. 186–187, doi: 10.1109/SMARTCOMP55677.2022.00047. <span class="status" data-short="1">short paper</span>
 {: .pub-list #conference-list}
 
 ## Journals
@@ -198,8 +205,4 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 # References
 - [Prof. Kensuke Fukuda](http://www.flab.nii.ac.jp/), Professor, National Institute of Informatics, Japan (supervisor, 2026–present).
-- [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/), Associate Professor, The University of Tokyo, Japan (supervisor, 2026–present).
-- [Prof. Yusheng Ji](https://klab-nii.github.io/jp/index.html), Professor Emeritus, National Institute of Informatics, Japan (supervisor, 2024–2026).
-- [Prof. Antti Ylä-Jääski](https://users.aalto.fi/~anttiyj/), Professor Emeritus, Aalto University, Finland (supervisor, 2019–2024).
-- [Prof. Yu Xiao](https://mobilecloud.aalto.fi/), Associate Professor, Aalto University, Finland (supervisor, 2019–2023).
-- [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/), Professor, The Chinese University of Hong Kong (collaborator).
+- [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/), Associate Professor, The University of Tokyo, Japan (s
