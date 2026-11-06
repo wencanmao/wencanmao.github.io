@@ -24,9 +24,9 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 
 <div class="highlights">
-  <div class="hl"><span class="hl-num" data-count="#journal-list">18</span><span class="hl-label">Journal papers</span></div>
-  <div class="hl"><span class="hl-num" data-count="#conference-list">11</span><span class="hl-label">Conference papers<br><span data-split="#conference-list">8 full · 3 short</span></span></div>
-  <a class="hl hl-cit" href="{{ site.author.googlescholar }}" hidden><span class="hl-num" id="hl-cit"></span><span class="hl-label">Citations</span></a>
+  <div class="hl"><span class="hl-num" data-count="#journal-list">18</span><span class="hl-label">Journal papers<br><span data-split="#journal-list" data-mark="data-review" data-names="technical,review">17 technical · 1 review</span></span></div>
+  <div class="hl"><span class="hl-num" data-count="#conference-list">11</span><span class="hl-label">Conference papers<br><span data-split="#conference-list" data-mark="data-short" data-names="full,short">8 full · 3 short</span></span></div>
+  <a class="hl hl-cit" href="{{ site.author.googlescholar }}" hidden><span class="hl-num" id="hl-cit"></span><span class="hl-label">Citations<br>Google Scholar</span></a>
   <div class="hl hl-award"><span class="hl-num">&#127942;</span><span class="hl-label">Best Paper Runner-up<br>IEEE INFOCOM 2026 Workshop</span></div>
 </div>
 
@@ -39,9 +39,10 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
     document.querySelectorAll('[data-split]').forEach(function (el) {
       var list = document.querySelector(el.getAttribute('data-split'));
       if (!list) { return; }
+      var names = (el.getAttribute('data-names') || 'full,short').split(',');
       var total = list.querySelectorAll(':scope > li').length;
-      var short = list.querySelectorAll(':scope > li [data-short]').length;
-      el.textContent = (total - short) + ' full · ' + short + ' short';
+      var marked = list.querySelectorAll(':scope > li [' + (el.getAttribute('data-mark') || 'data-short') + ']').length;
+      el.textContent = (total - marked) + ' ' + names[0] + ' · ' + marked + ' ' + names[1];
     });
     fetch('{{ url }}')
       .then(function (r) { return r.ok ? r.json() : null; })
@@ -99,7 +100,7 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 - <span class="venue">TVT</span> [Resource Allocation for UAV-Enabled Spatio-Temporal Crowdsourcing in Smart Cities](https://ieeexplore.ieee.org/document/11091546) Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yu Xiao, Yusheng Ji, Haijun Zhang, Keping Long, **IEEE Transactions on Vehicular Technology**, vol. 75, no. 1, pp. 1233–1249, Jan. 2026, doi: 10.1109/TVT.2025.3591850.
 - <span class="venue">TCOM</span> [Joint Task Scheduling and Resource Allocation for UAV-Assisted Air-Ground Collaborative Integrated Sensing, Computation, and Communication](https://ieeexplore.ieee.org/document/11090168) Yaxi Liu, **Wencan Mao**, Xulong Li, Wei Huangfu, Yusheng Ji, Yu Xiao, Keping Long, **IEEE Transactions on Communications**, vol. 73, no. 11, pp. 10929–10945, Nov. 2025, doi: 10.1109/TCOMM.2025.3591748.
 - <span class="venue">TCCN</span> [Multi-Modal Trajectory Planning for Emergency-Oriented Air-Ground Collaborative Sensing and Communication](https://ieeexplore.ieee.org/document/11063465) Yaxi Liu, Quanxi Zhou, **Wencan Mao**, Xulong Li, Wei Huangfu, Manabu Tsukada, Yusheng Ji, Keping Long, **IEEE Transactions on Cognitive Communications and Networking**, vol. 11, no. 5, pp. 3094–3111, Oct. 2025, doi: 10.1109/TCCN.2025.3585254.
-- <span class="venue">TR Part F</span> [Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review](https://www.sciencedirect.com/science/article/pii/S1369847825001950) Danya Li, **Wencan Mao**, Francisco C. Pereira, Yu Xiao, Xiang Su, Rico Krueger, **Transportation Research Part F: Traffic Psychology and Behaviour**, vol. 114, pp. 270–307, Oct. 2025, doi: 10.1016/j.trf.2025.05.031.
+- <span class="venue">TR Part F</span> [Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review](https://www.sciencedirect.com/science/article/pii/S1369847825001950) Danya Li, **Wencan Mao**, Francisco C. Pereira, Yu Xiao, Xiang Su, Rico Krueger, **Transportation Research Part F: Traffic Psychology and Behaviour**, vol. 114, pp. 270–307, Oct. 2025, doi: 10.1016/j.trf.2025.05.031. <span class="status" data-review="1">review paper</span>
 - <span class="venue">TCCN</span> [Self-Adjusting Network Slicing for Dynamic Heterogeneous Task Offloading in UAV-Enabled Mobile Edge Computing](https://ieeexplore.ieee.org/document/10981857) Xulong Li, **Wencan Mao**, Xinyi Xu, Yaxi Liu, Huifeng Zhang, Wei Huangfu, Keping Long, **IEEE Transactions on Cognitive Communications and Networking**, vol. 12, pp. 673–687, 2026, doi: 10.1109/TCCN.2025.3565942.
 - <span class="venue">TCOM</span> [Radar Probing Optimization for Joint Beamforming and UAV Trajectory Design in UAV-Enabled Integrated Sensing and Communication](https://ieeexplore.ieee.org/document/10769423) Yaxi Liu, **Wencan Mao**, Boxin He, Wei Huangfu, Tianyao Huang, Haijun Zhang, Keping Long, **IEEE Transactions on Communications**, vol. 73, no. 6, pp. 4469–4485, Jun. 2025, doi: 10.1109/TCOMM.2024.3506917.
 - <span class="venue">T-IV</span> [Multi-Agent Reinforcement Learning-Based Capacity Planning for On-Demand Vehicular Fog Computing](https://ieeexplore.ieee.org/document/10584316) **Wencan Mao**, Jiaming Yin, Yushan Liu, Byungjin Cho, Yang Chen, Weixiong Rao, Yu Xiao, **IEEE Transactions on Intelligent Vehicles**, vol. 10, no. 2, pp. 1043–1057, Feb. 2025, doi: 10.1109/TIV.2024.3422375.
@@ -205,4 +206,8 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 # References
 - [Prof. Kensuke Fukuda](http://www.flab.nii.ac.jp/), Professor, National Institute of Informatics, Japan (supervisor, 2026–present).
-- [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/), Associate Professor, The University of Tokyo, Japan (s
+- [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/), Associate Professor, The University of Tokyo, Japan (supervisor, 2026–present).
+- [Prof. Yusheng Ji](https://klab-nii.github.io/jp/index.html), Professor Emeritus, National Institute of Informatics, Japan (supervisor, 2024–2026).
+- [Prof. Antti Ylä-Jääski](https://users.aalto.fi/~anttiyj/), Professor Emeritus, Aalto University, Finland (supervisor, 2019–2024).
+- [Prof. Yu Xiao](https://mobilecloud.aalto.fi/), Associate Professor, Aalto University, Finland (supervisor, 2019–2023).
+- [Prof. John C.S. Lui](https://www.cse.cuhk.edu.hk/~cslui/), Professor, The Chinese University of Hong Kong (collaborator).

@@ -209,7 +209,7 @@ a:hover { color: $el-accent-dark; }
 .hl {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;   /* keep the numbers aligned when labels wrap */
   padding: 0.85rem 1rem;
   border: 1px solid $el-rule;
   border-radius: 10px;
