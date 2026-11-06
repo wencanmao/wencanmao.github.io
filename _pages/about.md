@@ -18,11 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wencan Mao (**wencan_mao@nii.ac.jp**) is a joint postdoctoral researcher at the National Institute of Informatics (NII) and The University of Tokyo, Tokyo, Japan. Her research interests include edge computing, 6G, reinforcement learning, robotics, the Internet of Things, intelligent transportation systems, and smart and sustainable cities.
+Wencan Mao (**wencan_mao@nii.ac.jp**) is a joint postdoctoral researcher at the National Institute of Informatics (NII) and The University of Tokyo, Japan. She works on **edge computing, 6G, reinforcement learning, and robotics**, with applications in intelligent transportation, the Internet of Things, and smart and sustainable cities.
 
-Previously, she was a postdoctoral researcher at the Department of Computer Science, Aalto University, Finland (2023–2024), and at the Information Systems Architecture Science Research Division, NII (2024–2026). She received her D.Sc. degree from the Department of Information and Communications Engineering, Aalto University, Espoo, Finland, in 2023; her M.S. degree in Mechanical Engineering from Aalto University in 2019; and her B.E. degree in Vehicle Engineering from Wuhan University of Technology, Wuhan, China, in 2017.
-
-She has published in leading venues, including IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Communications (TCOM), IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Vehicular Technology (TVT), and the IEEE International Conference on Robotics and Automation (ICRA), and received a Best Paper Runner-up Award at the IEEE INFOCOM 2026 DOICT-IndSoc Workshop. She also actively fosters international collaborations between universities in Asia and Europe.
+She received her D.Sc. from Aalto University, Finland, in 2023, and previously worked as a postdoctoral researcher at Aalto University and NII. She has published in leading venues, including IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Communications (TCOM), IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Vehicular Technology (TVT), and the IEEE International Conference on Robotics and Automation (ICRA). She also received a Best Paper Runner-up Award at the IEEE INFOCOM 2026 DOICT-IndSoc Workshop and actively fosters international collaborations between universities in Asia and Europe.
 
 
 <div class="highlights">
