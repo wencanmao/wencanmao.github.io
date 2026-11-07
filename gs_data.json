@@ -1,0 +1,161 @@
+{
+ "name": "Wencan Mao",
+ "affiliations": "National Institute of Informatics (NII), Japan",
+ "citedby": 303,
+ "hindex": 12,
+ "i10index": 13,
+ "updated": "2026-11-07T14:30:35+00:00",
+ "source": "SerpApi Google Scholar Author API",
+ "publications": {
+  "dnH7e-QAAAAJ:UeHWp8X0CEIC": {
+   "title": "Radar probing optimization for joint beamforming and UAV trajectory design in UAV-enabled integrated sensing and communication",
+   "pub_year": "2024",
+   "num_citations": 45
+  },
+  "dnH7e-QAAAAJ:u5HHmVD_uO8C": {
+   "title": "Data-driven capacity planning for vehicular fog computing",
+   "pub_year": "2022",
+   "num_citations": 32
+  },
+  "dnH7e-QAAAAJ:9yKSN-GCB0IC": {
+   "title": "On-demand vehicular fog computing for beyond 5G networks",
+   "pub_year": "2023",
+   "num_citations": 31
+  },
+  "dnH7e-QAAAAJ:_FxGoFyzp5QC": {
+   "title": "Energy-efficient joint beamforming and trajectory optimization for UAV-enabled integrated sensing and communication",
+   "pub_year": "2025",
+   "num_citations": 27
+  },
+  "dnH7e-QAAAAJ:W7OEmFMy1HYC": {
+   "title": "Self-adjusting network slicing for dynamic heterogeneous task offloading in UAV-enabled mobile edge computing",
+   "pub_year": "2025",
+   "num_citations": 25
+  },
+  "dnH7e-QAAAAJ:2osOgNQ5qMEC": {
+   "title": "VFogSim: A data-driven platform for simulating vehicular fog computing environment",
+   "pub_year": "2023",
+   "num_citations": 22
+  },
+  "dnH7e-QAAAAJ:ufrVoPGSRksC": {
+   "title": "Joint task scheduling and resource allocation for UAV-assisted air-ground collaborative integrated sensing, computation, and communication",
+   "pub_year": "2025",
+   "num_citations": 19
+  },
+  "dnH7e-QAAAAJ:eQOLeE2rZwMC": {
+   "title": "Multi-modal trajectory planning for emergency-oriented air-ground collaborative sensing and communication",
+   "pub_year": "2025",
+   "num_citations": 17
+  },
+  "dnH7e-QAAAAJ:Tyk-4Ss8FVUC": {
+   "title": "UAV-assisted integrated sensing and communication for emergency rescue activities based on transfer deep reinforcement learning",
+   "pub_year": "2024",
+   "num_citations": 15
+  },
+  "dnH7e-QAAAAJ:u-x6o8ySG0sC": {
+   "title": "Multi-agent reinforcement learning-based capacity planning for on-demand vehicular fog computing",
+   "pub_year": "2024",
+   "num_citations": 15
+  },
+  "dnH7e-QAAAAJ:YsMSGLbcyi4C": {
+   "title": "Analyzing the behaviors of pedestrians and cyclists in interactions with autonomous systems using controlled experiments: A literature review",
+   "pub_year": "2025",
+   "num_citations": 14
+  },
+  "dnH7e-QAAAAJ:Se3iqnhoufwC": {
+   "title": "Bistatic-enhancement MIMO ISAC: Joint beamforming design in cell-free communication and bistatic radar systems",
+   "pub_year": "2025",
+   "num_citations": 13
+  },
+  "dnH7e-QAAAAJ:WF5omc3nYNoC": {
+   "title": "Resource allocation for uav-enabled spatio-temporal crowdsourcing in smart cities",
+   "pub_year": "2025",
+   "num_citations": 10
+  },
+  "dnH7e-QAAAAJ:LkGwnXOMwfcC": {
+   "title": "Uncertainty-aware multi-agent reinforcement learning for anti-interference trajectory planning of cellular-connected uavs",
+   "pub_year": "2025",
+   "num_citations": 7
+  },
+  "dnH7e-QAAAAJ:hqOjcs7Dif8C": {
+   "title": "Trajectory planning for uav-based smart farming using imitation-based triple deep q-learning",
+   "pub_year": "2026",
+   "num_citations": 4
+  },
+  "dnH7e-QAAAAJ:3fE2CSJIrl8C": {
+   "title": "CLIFF: A Multi-Modal Remote Sensing Model for Geological Hazard Monitoring Based on Bitemporal UAV Images",
+   "pub_year": "2026",
+   "num_citations": 2
+  },
+  "dnH7e-QAAAAJ:5nxA0vEk-isC": {
+   "title": "Dynamic and Heterogeneous Network Slicing for Vehicular Edge Computing Based on Two-Timescale Reinforcement Learning",
+   "pub_year": "2026",
+   "num_citations": 2
+  },
+  "dnH7e-QAAAAJ:roLk4NBRz8UC": {
+   "title": "On-Demand Edge Computing Power Networks Assisted by Reconfigurable Intelligent Surface with Multi-Layer Scheme",
+   "pub_year": "2025",
+   "num_citations": 1
+  },
+  "dnH7e-QAAAAJ:d1gkVwhDpl0C": {
+   "title": "PhD forum abstract: Capacity planning for vehicular fog computing",
+   "pub_year": "2022",
+   "num_citations": 1
+  },
+  "dnH7e-QAAAAJ:IjCSPb-OGe4C": {
+   "title": "Vision-based vehicle detection and tracking in intelligent transportation system",
+   "pub_year": "2019",
+   "num_citations": 1
+  },
+  "dnH7e-QAAAAJ:ULOm3_A8WrAC": {
+   "title": "Priority-Aware Hybrid Actor-Critic for Task Scheduling of UAV-Assisted Edge Computing",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:Zph67rFs4hoC": {
+   "title": "CARE: Camera-Residual Reserves for First Sightings in Adaptive LiDAR Sensing",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:KlAtU1dfN6UC": {
+   "title": "ComLLM: Toward A General Large Language Model for Semantic-Aware Network Optimization",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:kNdYIx-mwKoC": {
+   "title": "UAV-Enabled Integrated Sensing, Semantic Communication, and Computation: Disaster-Oriented Edge Computing and Sensing",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:MXK_kJrjxJIC": {
+   "title": "A Dynamic Service-to-Slice Co-Evolutionary Framework Without Prior Labels in Society 5.0",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:8k81kl-MbHgC": {
+   "title": "Deep Reinforcement Learning for Automated Guided Vehicle Trajectory Planning in Industry 4.0",
+   "pub_year": "2026",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:0EnyYjriUFMC": {
+   "title": "EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture",
+   "pub_year": "2025",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:UebtZRa9Y70C": {
+   "title": "FM-EAC: Feature Model-based Enhanced Actor-Critic for Multi-Task Control in Dynamic Environments",
+   "pub_year": "2025",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:Y0pCki6q_DkC": {
+   "title": "Understanding and predicting human behavior in interactions with autonomous systems in urban environments: a systematic review, challenges, and opportunities",
+   "pub_year": "2024",
+   "num_citations": 0
+  },
+  "dnH7e-QAAAAJ:qjMakFHDy7sC": {
+   "title": "Capacity Planning for Vehicular Fog Computing",
+   "pub_year": "2023",
+   "num_citations": 0
+  }
+ }
+}
