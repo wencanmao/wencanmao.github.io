@@ -134,7 +134,7 @@ She received her D.Sc. from Aalto University, Finland, in 2023, and previously w
 
 # Review Activities
 ## Conferences
-- *2027* IEEE International Conference on Computer Communications and Networks (ICCCN 2027), TPC member.
+- *2027* IEEE International Conference on Computer Communications and Networks (ICCCN 2027), Infrastructure Networking Technologies Track, TPC member.
 - *2026–2027* IEEE International Conference on Communications (ICC 2026, ICC 2027), Wireless Communications Symposium, TPC member.
 - *2026* IEEE Global Communications Conference (GLOBECOM 2026), TPC member.
 - *2026* IEEE International Conference on Computer Communications (INFOCOM 2026) Workshops, TPC member.
